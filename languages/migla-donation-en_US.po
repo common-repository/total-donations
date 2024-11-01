@@ -1,0 +1,1859 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-20 16:24+0700\n"
+"PO-Revision-Date: 2020-01-20 16:26+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../admin\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: admin-campaign.php\n"
+"X-Poedit-SearchPath-1: admin-custom-theme.php\n"
+"X-Poedit-SearchPath-2: admin-dashboard.php\n"
+"X-Poedit-SearchPath-3: admin-email.php\n"
+"X-Poedit-SearchPath-4: admin-form-options.php\n"
+"X-Poedit-SearchPath-5: admin-gateway-stripe.php\n"
+"X-Poedit-SearchPath-6: admin-help.php\n"
+"X-Poedit-SearchPath-7: admin-reports.php\n"
+"X-Poedit-SearchPath-8: admin-security-frontend.php\n"
+"X-Poedit-SearchPath-9: admin-system-status.php\n"
+
+#: admin-campaign.php:18 admin-campaign.php:19 admin-campaign.php:85
+msgid "Campaigns"
+msgstr ""
+
+#: admin-campaign.php:57 admin-custom-theme.php:1116 admin-dashboard.php:556
+#: admin-email.php:47 admin-form-options.php:1116 admin-gateway-stripe.php:352
+#: admin-reports.php:384 admin-security-frontend.php:346
+#: admin-system-status.php:396
+msgid ""
+"You do not have sufficient permissions to access this page. Please contact "
+"your web administrator"
+msgstr ""
+"You do not have sufficient permissions to access this page. Please contact "
+"your web administrator"
+
+#: admin-campaign.php:74 admin-campaign.php:251 admin-reports.php:724
+#: admin-reports.php:756
+msgid "Campaign"
+msgstr "Campaign"
+
+#: admin-campaign.php:89
+msgid "Form"
+msgstr "Form"
+
+#: admin-campaign.php:115
+msgid "Add New Campaigns"
+msgstr "Add New Campaigns"
+
+#: admin-campaign.php:123
+msgid "Campaign Name"
+msgstr "Campaign Name"
+
+#: admin-campaign.php:129
+msgid "Name"
+msgstr "Name"
+
+#: admin-campaign.php:136
+msgid "Enter the name of the Campaign (e.g. Bulid a School)"
+msgstr "Enter the name of the Campaign (e.g. Bulid a School)"
+
+#: admin-campaign.php:144
+msgid "Donation Target"
+msgstr "Donation Target"
+
+#: admin-campaign.php:159
+msgid "No currency symbol. Leave blank if you don't want the progress bar."
+msgstr "No currency symbol. Leave blank if you don't want the progress bar."
+
+#: admin-campaign.php:166 admin-campaign.php:857 admin-campaign.php:1023
+#: admin-custom-theme.php:382 admin-custom-theme.php:703 admin-email.php:223
+#: admin-email.php:387 admin-form-options.php:264 admin-form-options.php:298
+#: admin-form-options.php:349 admin-form-options.php:463
+#: admin-form-options.php:739 admin-gateway-stripe.php:169
+#: admin-gateway-stripe.php:241 admin-gateway-stripe.php:338
+#: admin-reports.php:1885 admin-security-frontend.php:146
+#: admin-security-frontend.php:329
+msgid " save"
+msgstr " save"
+
+#: admin-campaign.php:187
+msgid "List of Available Campaigns"
+msgstr "List of Available Campaigns"
+
+#: admin-campaign.php:222
+msgid "You do not have any campaigns yet"
+msgstr "You do not have any campaigns yet"
+
+#: admin-campaign.php:261
+msgid "Target"
+msgstr "Target"
+
+#: admin-campaign.php:272 admin-campaign.php:374
+msgid "form"
+msgstr "form"
+
+#: admin-campaign.php:302 admin-campaign.php:1052 admin-campaign.php:1357
+#: admin-campaign.php:1377 admin-campaign.php:1396 admin-campaign.php:1414
+#: admin-campaign.php:1432 admin-form-options.php:645
+#: admin-form-options.php:660
+msgid " Show"
+msgstr " Show"
+
+#: admin-campaign.php:309
+msgid " Deactived"
+msgstr " Deactived"
+
+#: admin-campaign.php:334
+msgid " update list of campaigns"
+msgstr " update list of campaigns"
+
+#: admin-campaign.php:360
+msgid "Multi-Campaign Form"
+msgstr "Multi-Campaign Form"
+
+#: admin-campaign.php:367
+msgid "Using this your donor can switch Campaigns on a single Form:  "
+msgstr "Using this your donor can switch Campaigns on a single Form:  "
+
+#: admin-campaign.php:405 admin-form-options.php:1020 admin-reports.php:1374
+msgid "Confirm Delete"
+msgstr "Confirm Delete"
+
+#: admin-campaign.php:414
+msgid ""
+"Deleting this campaign will also delete any changes you've made on its "
+"unique form. The donation data will be not deleted."
+msgstr ""
+"Deleting this campaign will also delete any changes you've made on its "
+"unique form. The donation data will be not deleted."
+
+#: admin-campaign.php:420 admin-campaign.php:1090 admin-campaign.php:1575
+#: admin-campaign.php:1611 admin-form-options.php:1005
+#: admin-form-options.php:1038 admin-form-options.php:1095
+#: admin-reports.php:1393
+msgid "Cancel"
+msgstr "Cancel"
+
+#: admin-campaign.php:423 admin-form-options.php:1039 admin-reports.php:718
+#: admin-reports.php:1394
+msgid "Delete"
+msgstr "Delete"
+
+#: admin-campaign.php:466 admin-form-options.php:50 admin-form-options.php:67
+msgid " Form options"
+msgstr " Form options"
+
+#: admin-campaign.php:480
+msgid ""
+"Groups that have fields in them cannot be deleted. Move the fields to a "
+"different group or delete them before deleting the group "
+msgstr ""
+"Groups that have fields in them cannot be deleted. Move the fields to a "
+"different group or delete them before deleting the group "
+
+#: admin-campaign.php:481
+msgid "data can not be empty or duplicate title !"
+msgstr "data can not be empty or duplicate title !"
+
+#: admin-campaign.php:490
+msgid " Multi-Campaign Options "
+msgstr " Multi-Campaign Options "
+
+#: admin-campaign.php:505
+msgid " Form options Campaign: "
+msgstr " Form options Campaign: "
+
+#: admin-campaign.php:512
+msgid " Go back to Main Campaign Page"
+msgstr " Go back to Main Campaign Page"
+
+#: admin-campaign.php:523 admin-campaign.php:567
+msgid "Misc Form Options"
+msgstr "Misc Form Options"
+
+#: admin-campaign.php:528
+msgid "Form Settings"
+msgstr "Form Settings"
+
+#: admin-campaign.php:597
+msgid "Undesignated Category Label:"
+msgstr "Undesignated Category Label:"
+
+#: admin-campaign.php:609
+msgid "Hide Undesignated Category on Form:"
+msgstr "Hide Undesignated Category on Form:"
+
+#: admin-campaign.php:617 admin-campaign.php:623
+msgid ""
+"Check this if you want your donors to only be able to donate towards a "
+"campaign "
+msgstr ""
+"Check this if you want your donors to only be able to donate towards a "
+"campaign "
+
+#: admin-campaign.php:636
+msgid "Choose which campaigns you allow on the campaign switcher"
+msgstr "Choose which campaigns you allow on the campaign switcher"
+
+#: admin-campaign.php:670
+msgid "No Campaigns to show. Add some on the campaign page"
+msgstr "No Campaigns to show. Add some on the campaign page"
+
+#: admin-campaign.php:675
+msgid "Add All Campaigns"
+msgstr "Add All Campaigns"
+
+#: admin-campaign.php:720
+msgid "Choose an item from all campaign"
+msgstr "Choose an item from all campaign"
+
+#: admin-campaign.php:724
+msgid "Remove All Campaigns"
+msgstr "Remove All Campaigns"
+
+#: admin-campaign.php:768
+msgid "Hide Custom Amount on Form:"
+msgstr "Hide Custom Amount on Form:"
+
+#: admin-campaign.php:785
+msgid ""
+"Check this if you want your donors not to be able to choose a custom amount"
+msgstr ""
+"Check this if you want your donors not to be able to choose a custom amount"
+
+#: admin-campaign.php:803
+msgid "Custom Amount Text:"
+msgstr "Custom Amount Text:"
+
+#: admin-campaign.php:811
+msgid "Choose the style of the giving level amounts:"
+msgstr "Choose the style of the giving level amounts:"
+
+#: admin-campaign.php:832
+msgid "Choose the length of the giving level amount boxes:"
+msgstr "Choose the length of the giving level amount boxes:"
+
+#: admin-campaign.php:870
+msgid "Giving Levels"
+msgstr "Giving Levels"
+
+#: admin-campaign.php:872
+msgid " Drag and drop the amounts into the order you want"
+msgstr " Drag and drop the amounts into the order you want"
+
+#: admin-campaign.php:883
+msgid "Add a suggested giving level"
+msgstr "Add a suggested giving level"
+
+#: admin-campaign.php:901
+msgid "Add a giving level description (optional)"
+msgstr "Add a giving level description (optional)"
+
+#: admin-campaign.php:909 admin-campaign.php:1555 admin-form-options.php:1075
+msgid " Add"
+msgstr " Add"
+
+#: admin-campaign.php:945
+msgid "No amounts have been added. Add some amounts above."
+msgstr "No amounts have been added. Add some amounts above."
+
+#: admin-campaign.php:976 admin-form-options.php:19 admin-form-options.php:20
+msgid "Form Options"
+msgstr "Form Options"
+
+#: admin-campaign.php:985
+msgid "Error Message Label for the General Fields:"
+msgstr "Error Message Label for the General Fields:"
+
+#: admin-campaign.php:998
+msgid "Error Message Label for the Email Field:"
+msgstr "Error Message Label for the Email Field:"
+
+#: admin-campaign.php:1010
+msgid "Error Message Label for the Amount:"
+msgstr "Error Message Label for the Amount:"
+
+#: admin-campaign.php:1043
+msgid "Form Fields"
+msgstr "Form Fields"
+
+#: admin-campaign.php:1045
+msgid "Drag and drop fields and groups or add new ones"
+msgstr "Drag and drop fields and groups or add new ones"
+
+#: admin-campaign.php:1053 admin-campaign.php:1361 admin-campaign.php:1381
+#: admin-campaign.php:1400 admin-campaign.php:1418 admin-campaign.php:1436
+msgid " Hide"
+msgstr " Hide"
+
+#: admin-campaign.php:1054 admin-campaign.php:1365 admin-campaign.php:1385
+#: admin-campaign.php:1404 admin-campaign.php:1422 admin-campaign.php:1440
+msgid " Mandatory"
+msgstr " Mandatory"
+
+#: admin-campaign.php:1055
+msgid " Cancel"
+msgstr " Cancel"
+
+#: admin-campaign.php:1056
+msgid " Save Field"
+msgstr " Save Field"
+
+#: admin-campaign.php:1061
+msgid " save form"
+msgstr " save form"
+
+#: admin-campaign.php:1065
+msgid "Add Group"
+msgstr "Add Group"
+
+#: admin-campaign.php:1076
+msgid "insert new header for group"
+msgstr "insert new header for group"
+
+#: admin-campaign.php:1084 admin-campaign.php:1135 admin-campaign.php:1145
+#: admin-campaign.php:1155
+msgid "Toggle"
+msgstr "Toggle"
+
+#: admin-campaign.php:1092
+msgid " Save Group"
+msgstr " Save Group"
+
+#: admin-campaign.php:1167
+msgid "Add Field"
+msgstr "Add Field"
+
+#: admin-campaign.php:1175
+msgid "Delete Group"
+msgstr "Delete Group"
+
+#: admin-campaign.php:1307
+msgid "no type"
+msgstr "no type"
+
+#: admin-campaign.php:1310
+msgid "text"
+msgstr "text"
+
+#: admin-campaign.php:1313
+msgid "checkbox"
+msgstr "checkbox"
+
+#: admin-campaign.php:1316
+msgid "textarea"
+msgstr "textarea"
+
+#: admin-campaign.php:1319
+msgid "select"
+msgstr "select"
+
+#: admin-campaign.php:1322
+msgid "radio"
+msgstr "radio"
+
+#: admin-campaign.php:1325
+msgid "multiple checkbox"
+msgstr "multiple checkbox"
+
+#: admin-campaign.php:1337
+msgid "Enter Values"
+msgstr "Enter Values"
+
+#: admin-campaign.php:1486
+msgid "  save form"
+msgstr "  save form"
+
+#: admin-campaign.php:1492
+msgid "  Restore to Default"
+msgstr "  Restore to Default"
+
+#: admin-campaign.php:1531 admin-form-options.php:1051
+msgid " Edit Values"
+msgstr " Edit Values"
+
+#: admin-campaign.php:1541 admin-form-options.php:1061
+msgid "Value"
+msgstr "Value"
+
+#: admin-campaign.php:1544 admin-form-options.php:1064
+msgid "The value stored in your database"
+msgstr "The value stored in your database"
+
+#: admin-campaign.php:1551 admin-form-options.php:401
+#: admin-form-options.php:605 admin-form-options.php:1071
+msgid "Label"
+msgstr "Label"
+
+#: admin-campaign.php:1553 admin-form-options.php:1073
+msgid "What the user sees on the form"
+msgstr "What the user sees on the form"
+
+#: admin-campaign.php:1561 admin-form-options.php:1081
+msgid ""
+"You can drag the list item to reorganize. Here are the available list values:"
+msgstr ""
+"You can drag the list item to reorganize. Here are the available list values:"
+
+#: admin-campaign.php:1575 admin-form-options.php:1095
+msgid "great, I'm done"
+msgstr "great, I'm done"
+
+#: admin-campaign.php:1595 admin-form-options.php:989
+msgid " Confirm Restore"
+msgstr " Confirm Restore"
+
+#: admin-campaign.php:1605 admin-form-options.php:999
+msgid ""
+"Are you sure you want to restore to default fields? This cannot be undone"
+msgstr ""
+"Are you sure you want to restore to default fields? This cannot be undone"
+
+#: admin-campaign.php:1612 admin-form-options.php:1006
+msgid "Restore to default"
+msgstr "Restore to default"
+
+#: admin-custom-theme.php:18 admin-custom-theme.php:19
+msgid "Customize Theme"
+msgstr "Customize Theme"
+
+#: admin-custom-theme.php:87
+#| msgid "Campaign Progress"
+msgid "Circle Progress Bar"
+msgstr "Circle Progress Bar"
+
+#: admin-custom-theme.php:95
+msgid "Circle Text Info Alignment :"
+msgstr "Circle Text Info Alignment :"
+
+#: admin-custom-theme.php:130
+msgid "Text Info :"
+msgstr "Text Info :"
+
+#: admin-custom-theme.php:146 admin-form-options.php:913
+msgid "Save"
+msgstr "Save"
+
+#: admin-custom-theme.php:158
+msgid "Circle Progress Bar Editor"
+msgstr "Circle Progress Bar Editor"
+
+#: admin-custom-theme.php:165
+msgid "Size:"
+msgstr "Size:"
+
+#: admin-custom-theme.php:187
+msgid "Thickness:"
+msgstr "Thickness:"
+
+#: admin-custom-theme.php:209
+msgid "Start Angle:"
+msgstr "Start Angle:"
+
+#: admin-custom-theme.php:230
+msgid "Reverse:"
+msgstr "Reverse:"
+
+#: admin-custom-theme.php:236 admin-custom-theme.php:239
+msgid "This reverses the direction of the circle"
+msgstr "This reverses the direction of the circle"
+
+#: admin-custom-theme.php:249
+msgid "Fill:"
+msgstr "Fill:"
+
+#: admin-custom-theme.php:261
+msgid "Inner Font Size:"
+msgstr "Inner Font Size:"
+
+#: admin-custom-theme.php:284
+msgid "Line Cap:"
+msgstr "Line Cap:"
+
+#: admin-custom-theme.php:291 admin-custom-theme.php:299
+msgid "Square"
+msgstr "Square"
+
+#: admin-custom-theme.php:292 admin-custom-theme.php:300
+msgid "Round"
+msgstr "Round"
+
+#: admin-custom-theme.php:310
+#| msgid "Confirmation!"
+msgid "Animation:"
+msgstr "Animation:"
+
+#: admin-custom-theme.php:317 admin-custom-theme.php:327
+#: admin-custom-theme.php:337 admin-custom-theme.php:355
+#: admin-custom-theme.php:364 admin-custom-theme.php:372
+#: admin-form-options.php:818 admin-form-options.php:822
+#: admin-form-options.php:826
+msgid "None"
+msgstr "None"
+
+#: admin-custom-theme.php:318 admin-custom-theme.php:328
+#: admin-custom-theme.php:338 admin-email.php:199
+msgid "Normal"
+msgstr "Normal"
+
+#: admin-custom-theme.php:319 admin-custom-theme.php:329
+#: admin-custom-theme.php:339
+msgid "Back and Forth"
+msgstr "Back and Forth"
+
+#: admin-custom-theme.php:349
+#| msgid "Enter Values"
+msgid "Inner Value:"
+msgstr "Inner Value:"
+
+#: admin-custom-theme.php:356 admin-custom-theme.php:365
+#: admin-custom-theme.php:373
+#| msgid "Donation Target"
+msgid "Donation Percentage"
+msgstr "Donation Percentage"
+
+#: admin-custom-theme.php:505
+msgid "Theme Customization"
+msgstr "Theme Customization"
+
+#: admin-custom-theme.php:518
+msgid "Customize the Form"
+msgstr "Customize the Form"
+
+#: admin-custom-theme.php:519
+msgid "Add your color/width or leave blank"
+msgstr "Add your color/width or leave blank"
+
+#: admin-custom-theme.php:529
+msgid "Panel Background:"
+msgstr "Panel Background:"
+
+#: admin-custom-theme.php:539
+msgid "This is the background color of the panel in the form. Default is grey."
+msgstr ""
+"This is the background color of the panel in the form. Default is grey."
+
+#: admin-custom-theme.php:550
+msgid "Panel Border"
+msgstr "Panel Border"
+
+#: admin-custom-theme.php:562 admin-custom-theme.php:629
+msgid "Width"
+msgstr "Width"
+
+#: admin-custom-theme.php:589
+msgid " This is the panel's border color and width in the form."
+msgstr " This is the panel's border color and width in the form."
+
+#: admin-custom-theme.php:599
+msgid "Giving Level Background:"
+msgstr "Giving Level Background:"
+
+#: admin-custom-theme.php:609
+msgid "  This is the background color of the suggested giving level."
+msgstr "  This is the background color of the suggested giving level."
+
+#: admin-custom-theme.php:618
+msgid "Giving Level Border"
+msgstr "Giving Level Border"
+
+#: admin-custom-theme.php:655
+msgid ""
+"  This is the panel's border color and width for the suggested giving level. "
+msgstr ""
+"  This is the panel's border color and width for the suggested giving level. "
+
+#: admin-custom-theme.php:666
+msgid "Active Giving Level Background:"
+msgstr "Active Giving Level Background:"
+
+#: admin-custom-theme.php:678
+msgid ""
+"  This is the background color of the suggested giving level when it has "
+"been selected."
+msgstr ""
+"  This is the background color of the suggested giving level when it has "
+"been selected."
+
+#: admin-custom-theme.php:679
+msgid " Note: This only works with the button option. "
+msgstr " Note: This only works with the button option. "
+
+#: admin-custom-theme.php:688
+msgid "Inactive Tab Background:"
+msgstr "Inactive Tab Background:"
+
+#: admin-custom-theme.php:697
+msgid ""
+"This is the background color of the your inactive tab when using more than "
+"one gateway"
+msgstr ""
+"This is the background color of the your inactive tab when using more than "
+"one gateway"
+
+#: admin-custom-theme.php:721
+#| msgid "Customize the Form"
+msgid " Customize Progress Bar"
+msgstr " Customize Progress Bar"
+
+#: admin-custom-theme.php:728
+#| msgid "Progress"
+msgid "Progress Bar info:"
+msgstr "Progress Bar info:"
+
+#: admin-custom-theme.php:738
+msgid ""
+" This is the information that is above the progress bar. You can use the "
+"following shortcodes:"
+msgstr ""
+" This is the information that is above the progress bar. You can use the "
+"following shortcodes:"
+
+#: admin-custom-theme.php:750
+msgid " Well Border Radius:"
+msgstr " Well Border Radius:"
+
+#: admin-custom-theme.php:755
+msgid "top-left"
+msgstr "top-left"
+
+#: admin-custom-theme.php:780
+msgid "top-right"
+msgstr "top-right"
+
+#: admin-custom-theme.php:811
+msgid "bottom-left"
+msgstr "bottom-left"
+
+#: admin-custom-theme.php:833
+msgid "bottom-right"
+msgstr "bottom-right"
+
+#: admin-custom-theme.php:857
+msgid "This controls the round corners of the bar."
+msgstr "This controls the round corners of the bar."
+
+#: admin-custom-theme.php:868
+msgid "Bar Color:"
+msgstr "Bar Color:"
+
+#: admin-custom-theme.php:878
+#| msgid ""
+#| "This is the background color of the panel in the form. Default is grey."
+msgid "This is the color of the progress bar. "
+msgstr "This is the color of the progress bar. "
+
+#: admin-custom-theme.php:886
+#| msgid "Panel Background:"
+msgid "Well Background:"
+msgstr "Well Background:"
+
+#: admin-custom-theme.php:898
+#| msgid "  This is the background color of the suggested giving level."
+msgid "This is for the background inlay of the progress bar."
+msgstr "This is for the background inlay of the progress bar."
+
+#: admin-custom-theme.php:911
+msgid "Well Box Shadow:"
+msgstr "Well Box Shadow:"
+
+#: admin-custom-theme.php:934
+msgid "h-shadow"
+msgstr "h-shadow"
+
+#: admin-custom-theme.php:957
+msgid "v-shadow"
+msgstr "v-shadow"
+
+#: admin-custom-theme.php:983
+msgid "Blur"
+msgstr "Blur"
+
+#: admin-custom-theme.php:1005
+msgid "Spread"
+msgstr "Spread"
+
+#: admin-custom-theme.php:1027
+msgid "This controls the inlay shadow."
+msgstr "This controls the inlay shadow."
+
+#: admin-custom-theme.php:1035
+msgid "Bar Styling and Effects:"
+msgstr "Bar Styling and Effects:"
+
+#: admin-custom-theme.php:1041
+#| msgid "Stripe Only"
+msgid "Stripes"
+msgstr "Stripes"
+
+#: admin-custom-theme.php:1044
+msgid "Pulse"
+msgstr "Pulse"
+
+#: admin-custom-theme.php:1049
+#| msgid "Live Stripe"
+msgid "Animated Stripes"
+msgstr "Animated Stripes"
+
+#: admin-custom-theme.php:1050
+#| msgid "Stripe Button"
+msgid "(Stripes must be on)"
+msgstr "(Stripes must be on)"
+
+#: admin-custom-theme.php:1054
+msgid "Percentage"
+msgstr "Percentage"
+
+#: admin-custom-theme.php:1058
+msgid ""
+"This controls the progress bar's effects and styling. Settings are "
+"automatically saved."
+msgstr ""
+"This controls the progress bar's effects and styling. Settings are "
+"automatically saved."
+
+#: admin-custom-theme.php:1065
+#| msgid " Preview"
+msgid "Preview:"
+msgstr "Preview:"
+
+#: admin-custom-theme.php:1077
+#| msgid " save"
+msgid "save"
+msgstr "save"
+
+#: admin-dashboard.php:56
+msgid "Total Donations Dashboard"
+msgstr "Total Donations Dashboard"
+
+#: admin-dashboard.php:118 admin-dashboard.php:131
+msgid "Last 10 Online Donations"
+msgstr "Last 10 Online Donations"
+
+#: admin-dashboard.php:119 admin-dashboard.php:129
+msgid " Online Donations Last 2 Weeks"
+msgstr " Online Donations Last 2 Weeks"
+
+#: admin-dashboard.php:120 admin-dashboard.php:127
+msgid "This Month Online Donations"
+msgstr "This Month Online Donations"
+
+#: admin-dashboard.php:137
+msgid "Timeline"
+msgstr "Timeline"
+
+#: admin-dashboard.php:142
+msgid "Time Period"
+msgstr "Time Period"
+
+#: admin-dashboard.php:143
+msgid "last 10 donations"
+msgstr "last 10 donations"
+
+#: admin-dashboard.php:144
+msgid "last 2 Weeks"
+msgstr "last 2 Weeks"
+
+#: admin-dashboard.php:145 admin-dashboard.php:157
+msgid "This Month"
+msgstr "This Month"
+
+#: admin-dashboard.php:148
+msgid "Time Period "
+msgstr "Time Period "
+
+#: admin-dashboard.php:151
+msgid "Last 10 Donations"
+msgstr "Last 10 Donations"
+
+#: admin-dashboard.php:154
+msgid "Last 2 Weeks"
+msgstr "Last 2 Weeks"
+
+#: admin-dashboard.php:212
+msgid "Anonymous:"
+msgstr "Anonymous:"
+
+#: admin-dashboard.php:218 admin-dashboard.php:234
+msgid "no"
+msgstr "no"
+
+#: admin-dashboard.php:220 admin-dashboard.php:236
+msgid "yes"
+msgstr "yes"
+
+#: admin-dashboard.php:224
+msgid "Repeating:"
+msgstr "Repeating:"
+
+#: admin-dashboard.php:252
+msgid " See All"
+msgstr " See All"
+
+#: admin-dashboard.php:309
+msgid "Total Donations:"
+msgstr "Total Donations:"
+
+#: admin-dashboard.php:312 admin-dashboard.php:361
+msgid "online"
+msgstr "online"
+
+#: admin-dashboard.php:345 admin-dashboard.php:350 admin-dashboard.php:367
+msgid "This Month:"
+msgstr "This Month:"
+
+#: admin-dashboard.php:346 admin-dashboard.php:368
+msgid "Past 7 Days:"
+msgstr "Past 7 Days:"
+
+#: admin-dashboard.php:347 admin-dashboard.php:369
+msgid "Today:"
+msgstr "Today:"
+
+#: admin-dashboard.php:393
+msgid "Campaign Progress"
+msgstr "Campaign Progress"
+
+#: admin-dashboard.php:401
+msgid "Project"
+msgstr "Project"
+
+#: admin-dashboard.php:402
+msgid "Status"
+msgstr "Status"
+
+#: admin-dashboard.php:403
+msgid "Progress"
+msgstr "Progress"
+
+#: admin-dashboard.php:519
+msgid "Donation Graph"
+msgstr "Donation Graph"
+
+#: admin-dashboard.php:522
+msgid "Past 30 days"
+msgstr "Past 30 days"
+
+#: admin-dashboard.php:523
+msgid "Past 6 Months"
+msgstr "Past 6 Months"
+
+#: admin-dashboard.php:524
+msgid "Past 12 Months"
+msgstr "Past 12 Months"
+
+#: admin-dashboard.php:532 admin-reports.php:346 admin-reports.php:347
+#: admin-reports.php:399 admin-reports.php:687 admin-reports.php:1932
+msgid "Online Donations"
+msgstr "Online Donations"
+
+#: admin-dashboard.php:532
+msgid "Offline Donations"
+msgstr "Offline Donations"
+
+#: admin-email.php:19 admin-email.php:20 admin-email.php:271
+msgid "Email Settings"
+msgstr "Email Settings"
+
+#: admin-email.php:64
+msgid "Set Email & Receipts"
+msgstr "Set Email & Receipts"
+
+#: admin-email.php:75
+msgid "Set Email & Receipts for these form"
+msgstr "Set Email & Receipts for these form"
+
+#: admin-email.php:82
+msgid "Thank You Email Template"
+msgstr "Thank You Email Template"
+
+#: admin-email.php:83
+msgid "Action"
+msgstr "Action"
+
+#: admin-email.php:84
+msgid "On/Off"
+msgstr "On/Off"
+
+#: admin-email.php:89
+msgid ""
+"Multi Campaign Form (Use only this if you don't want to customize the thank "
+"you letter for each form.)"
+msgstr ""
+"Multi Campaign Form (Use only this if you don't want to customize the thank "
+"you letter for each form.)"
+
+#: admin-email.php:125
+msgid "SMTP Settings"
+msgstr "SMTP Settings"
+
+#: admin-email.php:135
+msgid "Use PHPMailer"
+msgstr "Use PHPMailer"
+
+#: admin-email.php:147
+msgid "Host"
+msgstr "Host"
+
+#: admin-email.php:159
+msgid "User"
+msgstr "User"
+
+#: admin-email.php:171
+msgid "Password"
+msgstr "Password"
+
+#: admin-email.php:183
+msgid "Authenticated?"
+msgstr "Authenticated?"
+
+#: admin-email.php:194
+msgid "Security Protocol"
+msgstr "Security Protocol"
+
+#: admin-email.php:200
+msgid "TLS"
+msgstr "TLS"
+
+#: admin-email.php:201
+msgid "SSL"
+msgstr "SSL"
+
+#: admin-email.php:211
+msgid "Port"
+msgstr "Port"
+
+#: admin-email.php:265
+msgid "Settings for "
+msgstr "Settings for "
+
+#: admin-email.php:265
+msgid "Multi Campaign Form "
+msgstr "Multi Campaign Form "
+
+#: admin-email.php:267
+msgid " Go back to Main Page"
+msgstr " Go back to Main Page"
+
+#: admin-email.php:273
+msgid "Redirect/Thank You Page"
+msgstr "Redirect/Thank You Page"
+
+#: admin-email.php:294
+msgid "Notifications and Email Settings"
+msgstr "Notifications and Email Settings"
+
+#: admin-email.php:302
+msgid "Email(s) to Notify Upon New Donation"
+msgstr "Email(s) to Notify Upon New Donation"
+
+#: admin-email.php:341
+msgid "Email Address: "
+msgstr "Email Address: "
+
+#: admin-email.php:349
+msgid ""
+"The is the address all your emails will appear from when a donor receives an "
+"email"
+msgstr ""
+"The is the address all your emails will appear from when a donor receives an "
+"email"
+
+#: admin-email.php:353
+msgid "Email Name : "
+msgstr "Email Name : "
+
+#: admin-email.php:362
+msgid "This is the name that all of your emails will appear from"
+msgstr "This is the name that all of your emails will appear from"
+
+#: admin-email.php:371
+msgid "Enable Thank You Emails:"
+msgstr "Enable Thank You Emails:"
+
+#: admin-email.php:376
+msgid ""
+" Switch this off you'd like no 'thank you email' to be sent to your donors "
+"after they donate"
+msgstr ""
+" Switch this off you'd like no 'thank you email' to be sent to your donors "
+"after they donate"
+
+#: admin-email.php:403
+msgid "Thank you Email"
+msgstr "Thank you Email"
+
+#: admin-email.php:412
+msgid " Email Subject:"
+msgstr " Email Subject:"
+
+#: admin-email.php:417
+msgid " Thank you Email Text Body: "
+msgstr " Thank you Email Text Body: "
+
+#: admin-email.php:436
+msgid "Anonymous Donations:"
+msgstr "Anonymous Donations:"
+
+#: admin-email.php:448
+msgid "Save in"
+msgstr "Save in"
+
+#: admin-email.php:450
+msgid " Use the following shortcodes in the email body:"
+msgstr " Use the following shortcodes in the email body:"
+
+#: admin-email.php:453
+msgid " Donor's First Name"
+msgstr " Donor's First Name"
+
+#: admin-email.php:454
+msgid " Donor's Last Name"
+msgstr " Donor's Last Name"
+
+#: admin-email.php:455
+msgid " Donation Amount"
+msgstr " Donation Amount"
+
+#: admin-email.php:456
+msgid " Donation date "
+msgstr " Donation date "
+
+#: admin-email.php:457
+msgid " Donation campaign "
+msgstr " Donation campaign "
+
+#: admin-email.php:458
+msgid " Anonymous Donations message will appear if this donation is anonymous "
+msgstr ""
+" Anonymous Donations message will appear if this donation is anonymous "
+
+#: admin-email.php:471
+msgid "Email address for Test:"
+msgstr "Email address for Test:"
+
+#: admin-email.php:477
+msgid " Preview Email"
+msgstr " Preview Email"
+
+#: admin-email.php:479
+msgid " Use this to preivew what your donors will see when they donate."
+msgstr " Use this to preivew what your donors will see when they donate."
+
+#: admin-email.php:500
+msgid "Thank You Page"
+msgstr "Thank You Page"
+
+#: admin-email.php:501
+msgid "The page that appears after you donate"
+msgstr "The page that appears after you donate"
+
+#: admin-email.php:510
+msgid "Set The Thank You Page Here:"
+msgstr "Set The Thank You Page Here:"
+
+#: admin-email.php:543 admin-email.php:548
+msgid "Default (Go to Donation Form)"
+msgstr "Default (Go to Donation Form)"
+
+#: admin-email.php:557
+msgid ""
+" If you set the thank you page to any page other than the default, you must "
+"add this shortcode to this page:"
+msgstr ""
+" If you set the thank you page to any page other than the default, you must "
+"add this shortcode to this page:"
+
+#: admin-email.php:557
+msgid "[totaldonations_thank_you_page]"
+msgstr "[totaldonations_thank_you_page]"
+
+#: admin-email.php:594
+msgid " save in "
+msgstr " save in "
+
+#: admin-email.php:603
+msgid " Preview"
+msgstr " Preview"
+
+#: admin-email.php:607
+msgid "Shortcodes allowed:"
+msgstr "Shortcodes allowed:"
+
+#: admin-form-options.php:94
+msgid "Country & Currency"
+msgstr "Country & Currency"
+
+#: admin-form-options.php:129
+msgid "Default Currency Selection"
+msgstr "Default Currency Selection"
+
+#: admin-form-options.php:135
+msgid "Set currency"
+msgstr "Set currency"
+
+#: admin-form-options.php:197
+msgid "Sign Location"
+msgstr "Sign Location"
+
+#: admin-form-options.php:205 admin-form-options.php:214
+msgid "Before"
+msgstr "Before"
+
+#: admin-form-options.php:208 admin-form-options.php:216
+msgid "After"
+msgstr "After"
+
+#: admin-form-options.php:226
+msgid "Separators"
+msgstr "Separators"
+
+#: admin-form-options.php:249
+msgid "Show Decimal Place"
+msgstr "Show Decimal Place"
+
+#: admin-form-options.php:254
+msgid "check this if you want donors to be able to add decimal places"
+msgstr "check this if you want donors to be able to add decimal places"
+
+#: admin-form-options.php:280
+msgid "Minimum Amount"
+msgstr "Minimum Amount"
+
+#: admin-form-options.php:287
+msgid "Minimum Amount to be accepted"
+msgstr "Minimum Amount to be accepted"
+
+#: admin-form-options.php:317
+msgid "Default Country Section"
+msgstr "Default Country Section"
+
+#: admin-form-options.php:324
+msgid "Set country"
+msgstr "Set country"
+
+#: admin-form-options.php:393
+msgid "Add A New Recurring Donation Plan"
+msgstr "Add A New Recurring Donation Plan"
+
+#: admin-form-options.php:409
+msgid "Interval Count"
+msgstr "Interval Count"
+
+#: admin-form-options.php:428 admin-form-options.php:631
+msgid "Day(s)"
+msgstr "Day(s)"
+
+#: admin-form-options.php:429 admin-form-options.php:633
+msgid "Week(s)"
+msgstr "Week(s)"
+
+#: admin-form-options.php:430 admin-form-options.php:635
+msgid "Month(s)"
+msgstr "Month(s)"
+
+#: admin-form-options.php:431 admin-form-options.php:637
+msgid "Year(s)"
+msgstr "Year(s)"
+
+#: admin-form-options.php:439
+msgid "Payment Gateway"
+msgstr "Payment Gateway"
+
+#: admin-form-options.php:443 admin-form-options.php:719
+msgid "PayPal Only"
+msgstr "PayPal Only"
+
+#: admin-form-options.php:444 admin-form-options.php:706
+#: admin-form-options.php:721
+msgid "Stripe Only"
+msgstr "Stripe Only"
+
+#: admin-form-options.php:445 admin-form-options.php:723
+msgid "Authorize Only"
+msgstr "Authorize Only"
+
+#: admin-form-options.php:446 admin-form-options.php:708
+#: admin-form-options.php:725
+msgid "PayPal or Stripe"
+msgstr "PayPal or Stripe"
+
+#: admin-form-options.php:447 admin-form-options.php:727
+msgid "PayPal or Authorize"
+msgstr "PayPal or Authorize"
+
+#: admin-form-options.php:448 admin-form-options.php:710
+#: admin-form-options.php:729
+msgid "Stripe or Authorize"
+msgstr "Stripe or Authorize"
+
+#: admin-form-options.php:449 admin-form-options.php:712
+#: admin-form-options.php:731
+msgid "PayPal/Stripe/Authorize"
+msgstr "PayPal/Stripe/Authorize"
+
+#: admin-form-options.php:454
+msgid " Warning: "
+msgstr " Warning: "
+
+#: admin-form-options.php:456
+msgid ""
+" Gateways must match your form's gateway(s) in order to be displayed on the "
+"form"
+msgstr ""
+" Gateways must match your form's gateway(s) in order to be displayed on the "
+"form"
+
+#: admin-form-options.php:516
+msgid "Warning"
+msgstr "Warning"
+
+#: admin-form-options.php:521
+msgid "Confirmation!"
+msgstr "Confirmation!"
+
+#: admin-form-options.php:522
+msgid "Yes, Confirmed"
+msgstr "Yes, Confirmed"
+
+#: admin-form-options.php:523 admin-system-status.php:138
+msgid "No"
+msgstr "No"
+
+#: admin-form-options.php:534
+msgid "you cannot make authorize's period under 7 days"
+msgstr "you cannot make authorize's period under 7 days"
+
+#: admin-form-options.php:535
+msgid "Authorize only accept daily and monthly period"
+msgstr "Authorize only accept daily and monthly period"
+
+#: admin-form-options.php:536
+msgid "This will add a new plan on stripe"
+msgstr "This will add a new plan on stripe"
+
+#: admin-form-options.php:538
+msgid ""
+"This will remove the old plan on stripe. Removing a plan will not cancel "
+"your existing donor's recurring donations"
+msgstr ""
+"This will remove the old plan on stripe. Removing a plan will not cancel "
+"your existing donor's recurring donations"
+
+#: admin-form-options.php:539
+msgid ""
+"This will delete the old plan and recreate a new one with new info again. "
+"This process will not stop current donor's recurring donations"
+msgstr ""
+"This will delete the old plan and recreate a new one with new info again. "
+"This process will not stop current donor's recurring donations"
+
+#: admin-form-options.php:540
+msgid "You are updating a plan on stripe"
+msgstr "You are updating a plan on stripe"
+
+#: admin-form-options.php:547
+msgid "Current Recurring Donation Plans"
+msgstr "Current Recurring Donation Plans"
+
+#: admin-form-options.php:610
+msgid "Interval"
+msgstr "Interval"
+
+#: admin-form-options.php:649 admin-form-options.php:663
+msgid " Deactivate"
+msgstr " Deactivate"
+
+#: admin-form-options.php:674
+msgid "Gateways"
+msgstr "Gateways"
+
+#: admin-form-options.php:755
+msgid ""
+"You don't have any recurring plans. Recurring donations won't be displayed "
+"until you add some above."
+msgstr ""
+"You don't have any recurring plans. Recurring donations won't be displayed "
+"until you add some above."
+
+#: admin-form-options.php:774
+msgid "Localization Option"
+msgstr "Localization Option"
+
+#: admin-form-options.php:780
+msgid "The None Option label:"
+msgstr "The None Option label:"
+
+#: admin-form-options.php:786 admin-form-options.php:829
+#: admin-form-options.php:849 admin-security-frontend.php:218
+msgid " Save"
+msgstr " Save"
+
+#: admin-form-options.php:790
+msgid ""
+"When using radio buttons, an option for none will appear. Change the "
+"language here"
+msgstr ""
+"When using radio buttons, an option for none will appear. Change the "
+"language here"
+
+#: admin-form-options.php:810
+msgid "Mailing List Chooser"
+msgstr "Mailing List Chooser"
+
+#: admin-form-options.php:813
+msgid "Choice Mailing List Vendor:"
+msgstr "Choice Mailing List Vendor:"
+
+#: admin-form-options.php:818 admin-form-options.php:822
+#: admin-form-options.php:826
+msgid "Constant Contact"
+msgstr "Constant Contact"
+
+#: admin-form-options.php:818 admin-form-options.php:822
+#: admin-form-options.php:826
+msgid "Mail Chimp"
+msgstr "Mail Chimp"
+
+#: admin-form-options.php:837
+msgid "Constant Contact Integration"
+msgstr "Constant Contact Integration"
+
+#: admin-form-options.php:841
+msgid ""
+"Constant Contact Classes implements the technical interoperability standards "
+"for PHP 5.3 namespaces and class names."
+msgstr ""
+"Constant Contact Classes implements the technical interoperability standards "
+"for PHP 5.3 namespaces and class names."
+
+#: admin-form-options.php:843 admin-form-options.php:912
+msgid "API Key:"
+msgstr "API Key:"
+
+#: admin-form-options.php:847
+msgid "Token:"
+msgstr "Token:"
+
+#: admin-form-options.php:860
+msgid "Constant Contact Lists:"
+msgstr "Constant Contact Lists:"
+
+#: admin-form-options.php:897 admin-form-options.php:957
+msgid " Retrieve available lists"
+msgstr " Retrieve available lists"
+
+#: admin-form-options.php:899
+msgid "  Update the lists"
+msgstr "  Update the lists"
+
+#: admin-form-options.php:909
+msgid "Mailchimp Settings"
+msgstr "Mailchimp Settings"
+
+#: admin-form-options.php:918
+msgid "Mail Chimp Lists:"
+msgstr "Mail Chimp Lists:"
+
+#: admin-form-options.php:941
+msgid ""
+"You don't have any automatic sign ups set up yet. Add some by clicking the "
+"button below"
+msgstr ""
+"You don't have any automatic sign ups set up yet. Add some by clicking the "
+"button below"
+
+#: admin-form-options.php:960
+msgid " Update the lists"
+msgstr " Update the lists"
+
+#: admin-form-options.php:1032
+msgid "Are you sure you want to delete this Plan? This cannot be undone"
+msgstr "Are you sure you want to delete this Plan? This cannot be undone"
+
+#: admin-gateway-stripe.php:19 admin-gateway-stripe.php:20
+#: admin-gateway-stripe.php:47
+msgid "Stripe Settings"
+msgstr "Stripe Settings"
+
+#: admin-gateway-stripe.php:67
+msgid "Stripe's Webhook"
+msgstr "Stripe's Webhook"
+
+#: admin-gateway-stripe.php:70
+msgid "Webhook's URL: (Front End)"
+msgstr "Webhook's URL: (Front End)"
+
+#: admin-gateway-stripe.php:76
+msgid " Go to Stripe"
+msgstr " Go to Stripe"
+
+#: admin-gateway-stripe.php:81
+msgid ""
+"Copy one of the URLs above and add it into the webhook area inside the admin "
+"panel on Stripe's website. Please read Stripe's documentation for more "
+"detailed information."
+msgstr ""
+"Copy one of the URLs above and add it into the webhook area inside the admin "
+"panel on Stripe's website. Please read Stripe's documentation for more "
+"detailed information."
+
+#: admin-gateway-stripe.php:100
+msgid "Stripe Info"
+msgstr "Stripe Info"
+
+#: admin-gateway-stripe.php:106
+msgid "Test Publishable Key:"
+msgstr "Test Publishable Key:"
+
+#: admin-gateway-stripe.php:109
+msgid "Test Secret Key:"
+msgstr "Test Secret Key:"
+
+#: admin-gateway-stripe.php:114
+msgid "Live Publishable Key:"
+msgstr "Live Publishable Key:"
+
+#: admin-gateway-stripe.php:117
+msgid "Live Secret Key:"
+msgstr "Live Secret Key:"
+
+#: admin-gateway-stripe.php:121
+msgid "Webhook Key:"
+msgstr "Webhook Key:"
+
+#: admin-gateway-stripe.php:136
+msgid "Test Stripe"
+msgstr "Test Stripe"
+
+#: admin-gateway-stripe.php:142 admin-gateway-stripe.php:159
+msgid "Live Stripe"
+msgstr "Live Stripe"
+
+#: admin-gateway-stripe.php:153
+msgid "Testing Stripe"
+msgstr "Testing Stripe"
+
+#: admin-gateway-stripe.php:185
+msgid "Stripe Credit Card Tab"
+msgstr "Stripe Credit Card Tab"
+
+#: admin-gateway-stripe.php:192
+msgid "Stripe Tab Label:"
+msgstr "Stripe Tab Label:"
+
+#: admin-gateway-stripe.php:203
+msgid "Name on Card:"
+msgstr "Name on Card:"
+
+#: admin-gateway-stripe.php:217
+msgid "Card Number/Placeholder:"
+msgstr "Card Number/Placeholder:"
+
+#: admin-gateway-stripe.php:231
+msgid "Text displayed while redirecting/processing:"
+msgstr "Text displayed while redirecting/processing:"
+
+#: admin-gateway-stripe.php:273
+msgid "Stripe Button"
+msgstr "Stripe Button"
+
+#: admin-gateway-stripe.php:281
+msgid "Upload Your Own Button"
+msgstr "Upload Your Own Button"
+
+#: admin-gateway-stripe.php:285
+msgid "Upload:"
+msgstr "Upload:"
+
+#: admin-gateway-stripe.php:288
+msgid "Browse…"
+msgstr "Browse…"
+
+#: admin-gateway-stripe.php:302
+msgid "Choose a CSS Button"
+msgstr "Choose a CSS Button"
+
+#: admin-gateway-stripe.php:307
+msgid "Button"
+msgstr "Button"
+
+#: admin-gateway-stripe.php:312
+msgid "Your Default Form Button"
+msgstr "Your Default Form Button"
+
+#: admin-gateway-stripe.php:313
+msgid "Stripe Default Button"
+msgstr "Stripe Default Button"
+
+#: admin-gateway-stripe.php:314
+msgid "Grey Button"
+msgstr "Grey Button"
+
+#: admin-gateway-stripe.php:322
+msgid "Button Text"
+msgstr "Button Text"
+
+#: admin-gateway-stripe.php:332
+msgid "Add CSS class (theme button only)"
+msgstr "Add CSS class (theme button only)"
+
+#: admin-help.php:19 admin-help.php:20
+msgid "Help"
+msgstr "Help"
+
+#: admin-help.php:39
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: admin-help.php:52
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin-help.php:55
+msgid "Get started by going "
+msgstr "Get started by going "
+
+#: admin-help.php:56
+msgid " here "
+msgstr " here "
+
+#: admin-help.php:59 admin-help.php:62
+msgid "Visit "
+msgstr "Visit "
+
+#: admin-help.php:59
+msgid "here for complete documentation "
+msgstr "here for complete documentation "
+
+#: admin-help.php:62
+msgid "here for shortcode examples and arguments"
+msgstr "here for shortcode examples and arguments"
+
+#: admin-help.php:73
+msgid "ShortCode List"
+msgstr "ShortCode List"
+
+#: admin-help.php:74
+msgid ""
+"See all the attributes for these shortcodes by clicking on the shortcode "
+"example link above"
+msgstr ""
+"See all the attributes for these shortcodes by clicking on the shortcode "
+"example link above"
+
+#: admin-reports.php:419
+msgid "Choose the Date Range to Load"
+msgstr "Choose the Date Range to Load"
+
+#: admin-reports.php:428
+msgid "Pick a date range for the reports:"
+msgstr "Pick a date range for the reports:"
+
+#: admin-reports.php:437
+msgid " Load This Date Range"
+msgstr " Load This Date Range"
+
+#: admin-reports.php:442
+msgid " Show pending payments?"
+msgstr " Show pending payments?"
+
+#: admin-reports.php:691
+msgid "Go back to Reports Filter"
+msgstr "Go back to Reports Filter"
+
+#: admin-reports.php:710
+msgid "Reports"
+msgstr "Reports"
+
+#: admin-reports.php:719
+msgid "Update"
+msgstr "Update"
+
+#: admin-reports.php:720
+msgid "Detail"
+msgstr "Detail"
+
+#: admin-reports.php:721
+msgid "Date"
+msgstr "Date"
+
+#: admin-reports.php:722 admin-reports.php:750
+msgid "FirstName"
+msgstr "FirstName"
+
+#: admin-reports.php:723 admin-reports.php:753
+msgid "LastName"
+msgstr "LastName"
+
+#: admin-reports.php:725 admin-reports.php:759
+msgid "Amount"
+msgstr "Amount"
+
+#: admin-reports.php:726 admin-reports.php:762
+msgid "Country"
+msgstr "Country"
+
+#: admin-reports.php:727 admin-reports.php:765
+msgid "Transaction"
+msgstr "Transaction"
+
+#: admin-reports.php:886
+msgid " (Repeating)"
+msgstr " (Repeating)"
+
+#: admin-reports.php:979 admin-reports.php:1100
+msgid "Store Purchase"
+msgstr "Store Purchase"
+
+#: admin-reports.php:1192
+msgid "REMOVE "
+msgstr "REMOVE "
+
+#: admin-reports.php:1193
+msgid " Unselect All "
+msgstr " Unselect All "
+
+#: admin-reports.php:1225
+msgid "This Report"
+msgstr "This Report"
+
+#: admin-reports.php:1228
+msgid "TD Donations"
+msgstr "TD Donations"
+
+#: admin-reports.php:1242
+msgid " Grand Total"
+msgstr " Grand Total"
+
+#: admin-reports.php:1268
+msgid " Online Donations"
+msgstr " Online Donations"
+
+#: admin-reports.php:1307
+msgid "Date Range Currently Displayed:"
+msgstr "Date Range Currently Displayed:"
+
+#: admin-reports.php:1316
+msgid " to "
+msgstr " to "
+
+#: admin-reports.php:1319
+msgid "Start from: "
+msgstr "Start from: "
+
+#: admin-reports.php:1322
+msgid "Below: "
+msgstr "Below: "
+
+#: admin-reports.php:1334
+msgid "CSV Export"
+msgstr "CSV Export"
+
+#: admin-reports.php:1384
+msgid "Are you sure you want to delete? This cannot be undone"
+msgstr "Are you sure you want to delete? This cannot be undone"
+
+#: admin-reports.php:1475 admin-reports.php:1538
+msgid "Edit Online Donations"
+msgstr "Edit Online Donations"
+
+#: admin-reports.php:1480
+msgid "Go back to Online Donations"
+msgstr "Go back to Online Donations"
+
+#: admin-reports.php:1540
+msgid "Donation ID"
+msgstr "Donation ID"
+
+#: admin-reports.php:1546
+msgid "Donation Date"
+msgstr "Donation Date"
+
+#: admin-reports.php:1559
+msgid "Transaction "
+msgstr "Transaction "
+
+#: admin-reports.php:1565
+msgid " Customer: "
+msgstr " Customer: "
+
+#: admin-reports.php:1572
+msgid " Subscription: "
+msgstr " Subscription: "
+
+#: admin-reports.php:1673 admin-reports.php:1688 admin-reports.php:1702
+#: admin-reports.php:1732 admin-reports.php:1747 admin-reports.php:1761
+#: admin-reports.php:1827 admin-reports.php:1846
+msgid "Please Choose"
+msgstr "Please Choose"
+
+#: admin-security-frontend.php:19 admin-security-frontend.php:20
+msgid "Front End and Securities"
+msgstr "Front End and Securities"
+
+#: admin-security-frontend.php:62
+msgid "Front End Settings"
+msgstr "Front End Settings"
+
+#: admin-security-frontend.php:70
+msgid "Gateway Order"
+msgstr "Gateway Order"
+
+#: admin-security-frontend.php:77
+msgid "Choose the gateway(s) you'd like to use and their order:"
+msgstr "Choose the gateway(s) you'd like to use and their order:"
+
+#: admin-security-frontend.php:164
+msgid "Security Options"
+msgstr "Security Options"
+
+#: admin-security-frontend.php:171
+msgid "Force Total Donations to use Address Verification Service:"
+msgstr "Force Total Donations to use Address Verification Service:"
+
+#: admin-security-frontend.php:176
+msgid ""
+"Address Verification System (AVS) provides additional levels of confirmation "
+"that the person using the card is the legitimate owner of the card. This is "
+"useful to identify and avoid fraud."
+msgstr ""
+"Address Verification System (AVS) provides additional levels of confirmation "
+"that the person using the card is the legitimate owner of the card. This is "
+"useful to identify and avoid fraud."
+
+#: admin-security-frontend.php:180
+msgid ""
+" For this to work you have to make the address and postal code fields "
+"mandatory on the form."
+msgstr ""
+" For this to work you have to make the address and postal code fields "
+"mandatory on the form."
+
+#: admin-security-frontend.php:188
+msgid "No check at all"
+msgstr "No check at all"
+
+#: admin-security-frontend.php:193
+msgid "Low: Check the card CVC only"
+msgstr "Low: Check the card CVC only"
+
+#: admin-security-frontend.php:198
+msgid "Medium: Allow partial match of Postal Code and Address Fields"
+msgstr "Medium: Allow partial match of Postal Code and Address Fields"
+
+#: admin-security-frontend.php:203
+msgid "High: Only allow exact match of both Address and Postal Code Fields"
+msgstr "High: Only allow exact match of both Address and Postal Code Fields"
+
+#: admin-security-frontend.php:237
+msgid "Grant User Access:"
+msgstr "Grant User Access:"
+
+#: admin-security-frontend.php:238
+msgid ""
+"All Users other than administers will not be able to change user access."
+msgstr ""
+"All Users other than administers will not be able to change user access."
+
+#: admin-security-frontend.php:287
+msgid "Administrator"
+msgstr "Administrator"
+
+#: admin-security-frontend.php:295 admin-security-frontend.php:306
+msgid "No Role"
+msgstr "No Role"
+
+#: admin-security-frontend.php:299 admin-security-frontend.php:310
+msgid "TotalDonations Accountant"
+msgstr "TotalDonations Accountant"
+
+#: admin-system-status.php:15 admin-system-status.php:16
+msgid "System Status & Logs"
+msgstr "System Status & Logs"
+
+#: admin-system-status.php:43
+msgid " System Status"
+msgstr " System Status"
+
+#: admin-system-status.php:50
+msgid "System Information"
+msgstr "System Information"
+
+#: admin-system-status.php:52
+msgid "Logs"
+msgstr "Logs"
+
+#: admin-system-status.php:65
+msgid "System Info"
+msgstr "System Info"
+
+#: admin-system-status.php:72
+msgid "Plugin Version:"
+msgstr "Plugin Version:"
+
+#: admin-system-status.php:79
+msgid "Server Name:"
+msgstr "Server Name:"
+
+#: admin-system-status.php:86
+msgid "Server Software:"
+msgstr "Server Software:"
+
+#: admin-system-status.php:93
+msgid "PHP Version:"
+msgstr "PHP Version:"
+
+#: admin-system-status.php:100
+msgid "Curl SSL:"
+msgstr "Curl SSL:"
+
+#: admin-system-status.php:108
+msgid "Database:"
+msgstr "Database:"
+
+#: admin-system-status.php:115
+msgid "Database Prefix:"
+msgstr "Database Prefix:"
+
+#: admin-system-status.php:126
+msgid "URL used by Stripe Webhooks"
+msgstr "URL used by Stripe Webhooks"
+
+#: admin-system-status.php:132
+msgid "Is child theme used:"
+msgstr "Is child theme used:"
+
+#: admin-system-status.php:136
+msgid "Yes"
+msgstr "Yes"
+
+#: admin-system-status.php:146
+msgid "Basename"
+msgstr "Basename"
+
+#: admin-system-status.php:153
+msgid "Plugin Directory"
+msgstr "Plugin Directory"
+
+#: admin-system-status.php:164
+msgid "Path directory"
+msgstr "Path directory"
+
+#: admin-system-status.php:269 admin-system-status.php:325
+msgid "Open log"
+msgstr "Open log"
+
+#: admin-system-status.php:272 admin-system-status.php:328
+msgid "Empty this log"
+msgstr "Empty this log"
+
+#~ msgid "Total Donations"
+#~ msgstr "Total Donations"

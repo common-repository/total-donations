@@ -1,0 +1,27 @@
+# Change Log
+Total Donations 
+All notable changes to this project will be documented in this file.
+https://totaldonations.com/
+https://calmar-webmedia.com
+
+## [3.0.1] - 2020-07-01
+################################
+- TotalDonations has its own tables separated from WordPress
+- TotalDonations has a custom role for accounting purpose
+- Security nonce on front end is mandatory
+- Ajax is secured with session that expired everytime user logout
+- All data including options data is separated from WordPress
+- Reports retrieve by date filter and a secret key for safety reason
+- Accept Stripe payment gateway
+- Accept PayPal standard payment gateway
+- Send acknowldege after donation
+- Send notification to selected admin after donation
+- Free Version is released
+
+## [3.0.2] - 2020-07-03
+################################
+- Added more CSS rules to make TD work with more themes.
+- Updated the readme.txt.
+- Added admin notices to warn you if you're using a test version or haven't filled in payment info yet.
+- More descriptive text info for new users on new installs. 
+- Fixed bugs css bugs.

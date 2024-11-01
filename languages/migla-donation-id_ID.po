@@ -1,0 +1,2106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-07 13:45+0700\n"
+"PO-Revision-Date: 2020-02-07 13:50+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: admin/admin-campaign.php\n"
+"X-Poedit-SearchPath-1: admin/admin-custom-theme.php\n"
+"X-Poedit-SearchPath-2: admin/admin-dashboard.php\n"
+"X-Poedit-SearchPath-3: admin/admin-email.php\n"
+"X-Poedit-SearchPath-4: admin/admin-form-options.php\n"
+"X-Poedit-SearchPath-5: admin/admin-gateway-stripe.php\n"
+"X-Poedit-SearchPath-6: admin/admin-help.php\n"
+"X-Poedit-SearchPath-7: admin/admin-reports.php\n"
+"X-Poedit-SearchPath-8: admin/admin-security-frontend.php\n"
+"X-Poedit-SearchPath-9: admin/admin-system-status.php\n"
+"X-Poedit-SearchPath-10: frontend/shortcodes/migla_sc_circle.php\n"
+"X-Poedit-SearchPath-11: frontend/shortcodes/migla_sc_form.php\n"
+"X-Poedit-SearchPath-12: frontend/shortcodes/migla_sc_progress_bar.php\n"
+"X-Poedit-SearchPath-13: frontend/shortcodes/migla_sc_thankyou_page.php\n"
+"X-Poedit-SearchPath-14: frontend/widgets/migla-bar-widget.php\n"
+"X-Poedit-SearchPath-15: frontend/widgets/migla-circle-widget.php\n"
+"X-Poedit-SearchPath-16: admin/admin-gateway-paypal.php\n"
+
+#: admin/admin-campaign.php:18 admin/admin-campaign.php:19
+#: admin/admin-campaign.php:85
+msgid "Campaigns"
+msgstr "Kampanye"
+
+#: admin/admin-campaign.php:57 admin/admin-custom-theme.php:1118
+#: admin/admin-dashboard.php:556 admin/admin-email.php:47
+#: admin/admin-form-options.php:368 admin/admin-gateway-paypal.php:350
+#: admin/admin-gateway-stripe.php:325 admin/admin-reports.php:384
+#: admin/admin-security-frontend.php:376 admin/admin-system-status.php:407
+msgid ""
+"You do not have sufficient permissions to access this page. Please contact "
+"your web administrator"
+msgstr ""
+"Anda tidak memiliki izin yang memadai untuk mengakses halaman ini. Silakan "
+"hubungi administrator web Anda"
+
+#: admin/admin-campaign.php:74 admin/admin-campaign.php:251
+#: admin/admin-reports.php:680 admin/admin-reports.php:712
+msgid "Campaign"
+msgstr "Kampanye"
+
+#: admin/admin-campaign.php:89
+msgid "Form"
+msgstr "Form"
+
+#: admin/admin-campaign.php:115
+msgid "Add New Campaigns"
+msgstr "Tambahkan Kampanye Baru"
+
+#: admin/admin-campaign.php:123
+msgid "Campaign Name"
+msgstr "Nama Kampanye"
+
+#: admin/admin-campaign.php:129
+msgid "Name"
+msgstr "Nama"
+
+#: admin/admin-campaign.php:136
+msgid "Enter the name of the Campaign (e.g. Bulid a School)"
+msgstr "Masukkan nama Kampanye (mis. Bulid Sekolah)"
+
+#: admin/admin-campaign.php:144
+msgid "Donation Target"
+msgstr "Target Donasi"
+
+#: admin/admin-campaign.php:159
+msgid "No currency symbol. Leave blank if you don't want the progress bar."
+msgstr ""
+"Tidak ada simbol mata uang. Biarkan kosong jika Anda tidak menginginkan "
+"progress bar."
+
+#: admin/admin-campaign.php:166 admin/admin-campaign.php:857
+#: admin/admin-campaign.php:1023 admin/admin-custom-theme.php:382
+#: admin/admin-custom-theme.php:703 admin/admin-email.php:223
+#: admin/admin-email.php:387 admin/admin-form-options.php:264
+#: admin/admin-form-options.php:298 admin/admin-form-options.php:349
+#: admin/admin-gateway-paypal.php:171 admin/admin-gateway-paypal.php:220
+#: admin/admin-gateway-paypal.php:326 admin/admin-gateway-stripe.php:169
+#: admin/admin-gateway-stripe.php:241 admin/admin-gateway-stripe.php:311
+#: admin/admin-reports.php:1610 admin/admin-security-frontend.php:172
+#: admin/admin-security-frontend.php:350
+msgid " save"
+msgstr " simpan"
+
+#: admin/admin-campaign.php:187
+msgid "List of Available Campaigns"
+msgstr "Daftar Kampanye yang Tersedia"
+
+#: admin/admin-campaign.php:222
+msgid "You do not have any campaigns yet"
+msgstr "Anda belum memiliki kampanye apa pun"
+
+#: admin/admin-campaign.php:261
+msgid "Target"
+msgstr "Target"
+
+#: admin/admin-campaign.php:272
+msgid "form"
+msgstr "form"
+
+#: admin/admin-campaign.php:302 admin/admin-campaign.php:1052
+#: admin/admin-campaign.php:1357 admin/admin-campaign.php:1377
+#: admin/admin-campaign.php:1396 admin/admin-campaign.php:1414
+#: admin/admin-campaign.php:1432
+msgid " Show"
+msgstr " Tunjukkan"
+
+#: admin/admin-campaign.php:309
+msgid " Deactived"
+msgstr " Dinonaktifkan"
+
+#: admin/admin-campaign.php:334
+msgid " update list of campaigns"
+msgstr " perbarui daftar kampanye"
+
+#: admin/admin-campaign.php:360
+msgid "Multi-Campaign Form"
+msgstr "Formulir Multi-Kampanye"
+
+#: admin/admin-campaign.php:367
+msgid "Edit the form here:  "
+msgstr "Ubah form disini: "
+
+#: admin/admin-campaign.php:374
+msgid "Multi-campaign Form "
+msgstr "Formulir Multi-Kampanye "
+
+#: admin/admin-campaign.php:405 admin/admin-reports.php:1099
+msgid "Confirm Delete"
+msgstr "Konfirmasikan Hapus"
+
+#: admin/admin-campaign.php:414
+msgid ""
+"Deleting this campaign will also delete any changes you've made on its "
+"unique form. The donation data will be not deleted."
+msgstr ""
+"Menghapus kampanye ini juga akan menghapus segala perubahan yang Anda "
+"lakukan pada formulir uniknya. Data donasi tidak akan dihapus."
+
+#: admin/admin-campaign.php:420 admin/admin-campaign.php:1090
+#: admin/admin-campaign.php:1575 admin/admin-campaign.php:1611
+#: admin/admin-reports.php:1118
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: admin/admin-campaign.php:423 admin/admin-reports.php:674
+#: admin/admin-reports.php:1119
+msgid "Delete"
+msgstr "Hapus"
+
+#: admin/admin-campaign.php:466 admin/admin-form-options.php:50
+#: admin/admin-form-options.php:67
+msgid " Form options"
+msgstr " Opsi formulir"
+
+#: admin/admin-campaign.php:480
+msgid ""
+"Groups that have fields in them cannot be deleted. Move the fields to a "
+"different group or delete them before deleting the group "
+msgstr ""
+"Grup yang memiliki input di dalamnya tidak dapat dihapus. Pindahkan input ke "
+"grup lain atau hapus sebelum menghapus grup "
+
+#: admin/admin-campaign.php:481
+msgid "data can not be empty or duplicate title !"
+msgstr "data tidak boleh kosong atau mempunyai judul sama!"
+
+#: admin/admin-campaign.php:490
+msgid " Multi-Campaign Options "
+msgstr " Opsi Multi-Kampanye "
+
+#: admin/admin-campaign.php:505
+msgid " Form options Campaign: "
+msgstr " Kampanye opsi formulir: "
+
+#: admin/admin-campaign.php:512
+msgid " Go back to Main Campaign Page"
+msgstr " Kembali ke Halaman Kampanye Utama"
+
+#: admin/admin-campaign.php:523 admin/admin-campaign.php:567
+msgid "Misc Form Options"
+msgstr "Opsi Bentuk Lain-Lain"
+
+#: admin/admin-campaign.php:528
+msgid "Form Settings"
+msgstr "Pengaturan Formulir"
+
+#: admin/admin-campaign.php:597
+msgid "Undesignated Category Label:"
+msgstr "Label Kategori tidak dirancang:"
+
+#: admin/admin-campaign.php:609
+msgid "Hide Undesignated Category on Form:"
+msgstr "Sembunyikan Kategori yang Tidak Dirancang pada Formulir:"
+
+#: admin/admin-campaign.php:617 admin/admin-campaign.php:623
+msgid ""
+"Check this if you want your donors to only be able to donate towards a "
+"campaign "
+msgstr ""
+"Periksa ini jika Anda ingin donor Anda hanya dapat menyumbang untuk kampanye "
+"tertentu "
+
+#: admin/admin-campaign.php:636
+msgid "Choose which campaigns you allow on the campaign switcher"
+msgstr ""
+"Pilih kampanye mana yang Anda izinkan pada pilihan kampanye di form donasi"
+
+#: admin/admin-campaign.php:670
+msgid "No Campaigns to show. Add some on the campaign page"
+msgstr ""
+"Tidak ada Kampanye untuk ditampilkan. Tambahkan beberapa di halaman kampanye"
+
+#: admin/admin-campaign.php:675
+msgid "Add All Campaigns"
+msgstr "Tambahkan Semua Kampanye"
+
+#: admin/admin-campaign.php:720
+msgid "Choose an item from all campaign"
+msgstr "Pilih item dari semua kampanye"
+
+#: admin/admin-campaign.php:724
+msgid "Remove All Campaigns"
+msgstr "Hapus Semua Kampanye"
+
+#: admin/admin-campaign.php:768
+msgid "Hide Custom Amount on Form:"
+msgstr "Sembunyikan Jumlah Khusus pada Formulir:"
+
+#: admin/admin-campaign.php:785
+msgid ""
+"Check this if you want your donors not to be able to choose a custom amount"
+msgstr ""
+"Periksa ini jika Anda ingin donor Anda tidak dapat memilih jumlah khusus"
+
+#: admin/admin-campaign.php:803
+msgid "Custom Amount Text:"
+msgstr "Teks Jumlah Khusus:"
+
+#: admin/admin-campaign.php:811
+msgid "Choose the style of the giving level amounts:"
+msgstr "Pilih gaya level pemberian:"
+
+#: admin/admin-campaign.php:832
+msgid "Choose the length of the giving level amount boxes:"
+msgstr "Pilih bentuk kotak level pemberian:"
+
+#: admin/admin-campaign.php:870
+msgid "Giving Levels"
+msgstr "Level Pemberian"
+
+#: admin/admin-campaign.php:872
+msgid " Drag and drop the amounts into the order you want"
+msgstr " Seret dan lepas jumlah ke dalam urutan yang Anda inginkan"
+
+#: admin/admin-campaign.php:883
+msgid "Add a suggested giving level"
+msgstr "Tambahkan level pemberian yang disarankan"
+
+#: admin/admin-campaign.php:901
+msgid "Add a giving level description (optional)"
+msgstr "Tambahkan deskripsi level pemberian (opsional)"
+
+#: admin/admin-campaign.php:909 admin/admin-campaign.php:1555
+msgid " Add"
+msgstr " Tambah"
+
+#: admin/admin-campaign.php:945
+msgid "No amounts have been added. Add some amounts above."
+msgstr "Tidak ada jumlah yang ditambahkan. Tambahkan beberapa jumlah di atas."
+
+#: admin/admin-campaign.php:976 admin/admin-form-options.php:19
+#: admin/admin-form-options.php:20
+msgid "Form Options"
+msgstr "Opsi Formulir"
+
+#: admin/admin-campaign.php:985
+msgid "Error Message Label for the General Fields:"
+msgstr "Label Pesan Kesalahan untuk input Umum:"
+
+#: admin/admin-campaign.php:998
+msgid "Error Message Label for the Email Field:"
+msgstr "Label Pesan Kesalahan untuk input Email:"
+
+#: admin/admin-campaign.php:1010
+msgid "Error Message Label for the Amount:"
+msgstr "Label Pesan Kesalahan untuk Jumlah Donasi:"
+
+#: admin/admin-campaign.php:1043
+msgid "Form Fields"
+msgstr "Input Form"
+
+#: admin/admin-campaign.php:1045
+msgid "Drag and drop fields and groups or add new ones"
+msgstr "Seret dan lepas input dan grup atau tambahkan dengan yang baru"
+
+#: admin/admin-campaign.php:1053 admin/admin-campaign.php:1361
+#: admin/admin-campaign.php:1381 admin/admin-campaign.php:1400
+#: admin/admin-campaign.php:1418 admin/admin-campaign.php:1436
+msgid " Hide"
+msgstr " Sembunyikan"
+
+#: admin/admin-campaign.php:1054 admin/admin-campaign.php:1365
+#: admin/admin-campaign.php:1385 admin/admin-campaign.php:1404
+#: admin/admin-campaign.php:1422 admin/admin-campaign.php:1440
+msgid " Mandatory"
+msgstr " Wajib"
+
+#: admin/admin-campaign.php:1055
+msgid " Cancel"
+msgstr " Batalkan"
+
+#: admin/admin-campaign.php:1056
+msgid " Save Field"
+msgstr " Simpan input"
+
+#: admin/admin-campaign.php:1061
+msgid " save form"
+msgstr " simpan form"
+
+#: admin/admin-campaign.php:1065
+msgid "Add Group"
+msgstr "Tambahkan Grup"
+
+#: admin/admin-campaign.php:1076
+msgid "insert new header for group"
+msgstr "masukkan tajuk baru untuk grup"
+
+#: admin/admin-campaign.php:1084 admin/admin-campaign.php:1135
+#: admin/admin-campaign.php:1145 admin/admin-campaign.php:1155
+msgid "Toggle"
+msgstr "Toggle"
+
+#: admin/admin-campaign.php:1092
+msgid " Save Group"
+msgstr " Simpan Grup"
+
+#: admin/admin-campaign.php:1167
+msgid "Add Field"
+msgstr "Tambahkan Input"
+
+#: admin/admin-campaign.php:1175
+msgid "Delete Group"
+msgstr "Hapus Grup"
+
+#: admin/admin-campaign.php:1307
+msgid "no type"
+msgstr "tanpa tipe"
+
+#: admin/admin-campaign.php:1310
+msgid "text"
+msgstr "text"
+
+#: admin/admin-campaign.php:1313
+msgid "checkbox"
+msgstr "checkbox"
+
+#: admin/admin-campaign.php:1316
+msgid "textarea"
+msgstr "textarea"
+
+#: admin/admin-campaign.php:1319
+msgid "select"
+msgstr "dropdown"
+
+#: admin/admin-campaign.php:1322
+msgid "radio"
+msgstr "radio button"
+
+#: admin/admin-campaign.php:1325
+msgid "multiple checkbox"
+msgstr "multiple checkbox"
+
+#: admin/admin-campaign.php:1337
+msgid "Enter Values"
+msgstr "Tambahkan Nilai"
+
+#: admin/admin-campaign.php:1486
+msgid "  save form"
+msgstr " simpan form"
+
+#: admin/admin-campaign.php:1492
+msgid "  Restore to Default"
+msgstr " Kembalikan ke Default"
+
+#: admin/admin-campaign.php:1531
+msgid " Edit Values"
+msgstr " Edit Nilai"
+
+#: admin/admin-campaign.php:1541
+msgid "Value"
+msgstr "Nilai"
+
+#: admin/admin-campaign.php:1544
+msgid "The value stored in your database"
+msgstr "Nilai disimpan dalam database Anda"
+
+#: admin/admin-campaign.php:1551
+msgid "Label"
+msgstr "Label"
+
+#: admin/admin-campaign.php:1553
+msgid "What the user sees on the form"
+msgstr "Apa yang dilihat pengguna di formulir"
+
+#: admin/admin-campaign.php:1561
+msgid ""
+"You can drag the list item to reorganize. Here are the available list values:"
+msgstr ""
+"Anda dapat menyeret item daftar untuk mengatur ulang. Berikut adalah nilai "
+"daftar yang tersedia:"
+
+#: admin/admin-campaign.php:1575
+msgid "great, I'm done"
+msgstr "bagus, saya sudah selesai"
+
+#: admin/admin-campaign.php:1595
+msgid " Confirm Restore"
+msgstr " Konfirmasikan Pulihkan"
+
+#: admin/admin-campaign.php:1605
+msgid ""
+"Are you sure you want to restore to default fields? This cannot be undone"
+msgstr ""
+"Apakah Anda yakin ingin mengembalikan ke bidang default? Ini tidak dapat "
+"dibatalkan"
+
+#: admin/admin-campaign.php:1612
+msgid "Restore to default"
+msgstr "Kembalikan ke default"
+
+#: admin/admin-custom-theme.php:18 admin/admin-custom-theme.php:19
+msgid "Customize Theme"
+msgstr "Sesuaikan Tema"
+
+#: admin/admin-custom-theme.php:87
+msgid "Circle Progress Bar"
+msgstr "Circle Progress Bar"
+
+#: admin/admin-custom-theme.php:95
+msgid "Circle Text Info Alignment :"
+msgstr "Rata Text di Circle Info:"
+
+#: admin/admin-custom-theme.php:130
+msgid "Text Info :"
+msgstr "Info Text:"
+
+#: admin/admin-custom-theme.php:146
+msgid "Save"
+msgstr "Simpan"
+
+#: admin/admin-custom-theme.php:158
+msgid "Circle Progress Bar Editor"
+msgstr "Editor Circle Progress Bar"
+
+#: admin/admin-custom-theme.php:165
+msgid "Size:"
+msgstr "Ukuran:"
+
+#: admin/admin-custom-theme.php:187
+msgid "Thickness:"
+msgstr "Ketebalan:"
+
+#: admin/admin-custom-theme.php:209
+msgid "Start Angle:"
+msgstr "Sudut mulai:"
+
+#: admin/admin-custom-theme.php:230
+msgid "Reverse:"
+msgstr "Dibalik arah:"
+
+#: admin/admin-custom-theme.php:236 admin/admin-custom-theme.php:239
+msgid "This reverses the direction of the circle"
+msgstr "Ini membalikkan arah lingkaran"
+
+#: admin/admin-custom-theme.php:249
+#: frontend/widgets/migla-circle-widget.php:341
+msgid "Fill:"
+msgstr "Isi:"
+
+#: admin/admin-custom-theme.php:261
+msgid "Inner Font Size:"
+msgstr "Ukuran Teks di dalam lingakaran:"
+
+#: admin/admin-custom-theme.php:284
+#: frontend/widgets/migla-circle-widget.php:332
+msgid "Line Cap:"
+msgstr "Tutup Garis:"
+
+#: admin/admin-custom-theme.php:291 admin/admin-custom-theme.php:299
+#: frontend/widgets/migla-circle-widget.php:334
+#: frontend/widgets/migla-circle-widget.php:336
+msgid "Square"
+msgstr "Kotak"
+
+#: admin/admin-custom-theme.php:292 admin/admin-custom-theme.php:300
+#: frontend/widgets/migla-circle-widget.php:334
+#: frontend/widgets/migla-circle-widget.php:336
+msgid "Round"
+msgstr "Bulat"
+
+#: admin/admin-custom-theme.php:310
+#: frontend/widgets/migla-circle-widget.php:346
+msgid "Animation:"
+msgstr "Animasi:"
+
+#: admin/admin-custom-theme.php:317 admin/admin-custom-theme.php:327
+#: admin/admin-custom-theme.php:337 admin/admin-custom-theme.php:355
+#: admin/admin-custom-theme.php:364 admin/admin-custom-theme.php:372
+#: frontend/widgets/migla-circle-widget.php:349
+#: frontend/widgets/migla-circle-widget.php:353
+#: frontend/widgets/migla-circle-widget.php:357
+#: frontend/widgets/migla-circle-widget.php:370
+#: frontend/widgets/migla-circle-widget.php:375
+msgid "None"
+msgstr "Tidak Ada"
+
+#: admin/admin-custom-theme.php:318 admin/admin-custom-theme.php:328
+#: admin/admin-custom-theme.php:338 admin/admin-email.php:199
+#: frontend/widgets/migla-circle-widget.php:349
+#: frontend/widgets/migla-circle-widget.php:353
+#: frontend/widgets/migla-circle-widget.php:357
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/admin-custom-theme.php:319 admin/admin-custom-theme.php:329
+#: admin/admin-custom-theme.php:339
+#: frontend/widgets/migla-circle-widget.php:349
+#: frontend/widgets/migla-circle-widget.php:353
+#: frontend/widgets/migla-circle-widget.php:357
+msgid "Back and Forth"
+msgstr "Maju dan Mundur"
+
+#: admin/admin-custom-theme.php:349
+msgid "Inner Value:"
+msgstr "Nilai Di Dalam:"
+
+#: admin/admin-custom-theme.php:356 admin/admin-custom-theme.php:365
+#: admin/admin-custom-theme.php:373
+#: frontend/widgets/migla-circle-widget.php:371
+#: frontend/widgets/migla-circle-widget.php:376
+msgid "Donation Percentage"
+msgstr "Persentasi Donasi"
+
+#: admin/admin-custom-theme.php:505
+msgid "Theme Customization"
+msgstr "Kustomisasi Tema"
+
+#: admin/admin-custom-theme.php:518
+msgid "Customize the Form"
+msgstr "Kustomisasi Formulir"
+
+#: admin/admin-custom-theme.php:519
+msgid "Add your color/width or leave blank"
+msgstr "Tambahkan warna / lebar Anda atau biarkan kosong"
+
+#: admin/admin-custom-theme.php:529
+msgid "Panel Background:"
+msgstr "Latar Belakang Panel:"
+
+#: admin/admin-custom-theme.php:539
+msgid "This is the background color of the panel in the form. Default is grey."
+msgstr ""
+"Ini adalah warna latar belakang panel dalam formulir. Defaultnya abu-abu."
+
+#: admin/admin-custom-theme.php:550
+msgid "Panel Border"
+msgstr "Batas Panel"
+
+#: admin/admin-custom-theme.php:562 admin/admin-custom-theme.php:629
+msgid "Width"
+msgstr "Lebar"
+
+#: admin/admin-custom-theme.php:589
+msgid " This is the panel's border color and width in the form."
+msgstr " Ini adalah warna dan lebar batas panel dalam bentuk."
+
+#: admin/admin-custom-theme.php:599
+msgid "Giving Level Background:"
+msgstr "Latar Belakang Tingkat Pemberian:"
+
+#: admin/admin-custom-theme.php:609
+msgid "  This is the background color of the suggested giving level."
+msgstr ""
+"  Ini adalah warna latar belakang dari level pemberian yang disarankan."
+
+#: admin/admin-custom-theme.php:618
+msgid "Giving Level Border"
+msgstr "Memberikan Batas Level"
+
+#: admin/admin-custom-theme.php:655
+msgid ""
+"  This is the panel's border color and width for the suggested giving level. "
+msgstr ""
+" Ini adalah warna dan lebar tepi panel untuk tingkat pemberian yang "
+"disarankan. "
+
+#: admin/admin-custom-theme.php:666
+msgid "Active Giving Level Background:"
+msgstr "Latar Belakang Tingkat Pemberian Aktif:"
+
+#: admin/admin-custom-theme.php:678
+msgid ""
+"  This is the background color of the suggested giving level when it has "
+"been selected."
+msgstr ""
+"  Ini adalah warna latar belakang dari level pemberian yang disarankan "
+"ketika telah dipilih."
+
+#: admin/admin-custom-theme.php:679
+msgid " Note: This only works with the button option. "
+msgstr " Catatan: Ini hanya berfungsi dengan opsi tombol. "
+
+#: admin/admin-custom-theme.php:688
+msgid "Inactive Tab Background:"
+msgstr "Latar Belakang Tab Tidak Aktif:"
+
+#: admin/admin-custom-theme.php:697
+msgid ""
+"This is the background color of the your inactive tab when using more than "
+"one gateway"
+msgstr ""
+"Ini adalah warna latar belakang tab tidak aktif Anda saat menggunakan lebih "
+"dari satu gateway"
+
+#: admin/admin-custom-theme.php:721
+msgid " Customize Progress Bar"
+msgstr " Kustomisasi Progress Bar"
+
+#: admin/admin-custom-theme.php:728
+msgid "Progress Bar info:"
+msgstr "Info Progress Bar:"
+
+#: admin/admin-custom-theme.php:738
+msgid ""
+" This is the information that is above the progress bar. You can use the "
+"following shortcodes:"
+msgstr ""
+" Ini adalah informasi yang berada di atas progress bar. Anda dapat "
+"menggunakan kode pendek berikut:"
+
+#: admin/admin-custom-theme.php:750
+msgid " Well Border Radius:"
+msgstr " Well Border Radius:"
+
+#: admin/admin-custom-theme.php:755
+msgid "top-left"
+msgstr "atas-kiri"
+
+#: admin/admin-custom-theme.php:780
+msgid "top-right"
+msgstr "atas-kanan"
+
+#: admin/admin-custom-theme.php:811
+msgid "bottom-left"
+msgstr "bawah-kiri"
+
+#: admin/admin-custom-theme.php:833
+msgid "bottom-right"
+msgstr "bawah-kanan"
+
+#: admin/admin-custom-theme.php:857
+msgid "This controls the round corners of the bar."
+msgstr "Ini mengontrol sudut bundar progress bar."
+
+#: admin/admin-custom-theme.php:868 frontend/widgets/migla-bar-widget.php:511
+msgid "Bar Color:"
+msgstr "Warna Bar:"
+
+#: admin/admin-custom-theme.php:878
+msgid "This is the color of the progress bar. "
+msgstr "Ini adalah warna latar belakang progress bar. "
+
+#: admin/admin-custom-theme.php:886 frontend/widgets/migla-bar-widget.php:516
+msgid "Well Background:"
+msgstr "Latar Belakang Well:"
+
+#: admin/admin-custom-theme.php:898
+msgid "This is for the background inlay of the progress bar."
+msgstr "Ini adalah warna latar belakang inlay progress bar."
+
+#: admin/admin-custom-theme.php:911 frontend/widgets/migla-bar-widget.php:491
+msgid "Well Box Shadow:"
+msgstr "Bayangan Well Box:"
+
+#: admin/admin-custom-theme.php:934
+msgid "h-shadow"
+msgstr "h-shadow"
+
+#: admin/admin-custom-theme.php:957
+msgid "v-shadow"
+msgstr "v-shadow"
+
+#: admin/admin-custom-theme.php:983
+msgid "Blur"
+msgstr "Pengaburan"
+
+#: admin/admin-custom-theme.php:1005
+msgid "Spread"
+msgstr "Penyebaran"
+
+#: admin/admin-custom-theme.php:1027
+msgid "This controls the inlay shadow."
+msgstr "Ini mengontrol bayangan tatahan."
+
+#: admin/admin-custom-theme.php:1035
+msgid "Bar Styling and Effects:"
+msgstr "Styling dan Efek Bar:"
+
+#: admin/admin-custom-theme.php:1041
+msgid "Stripes"
+msgstr "Garis"
+
+#: admin/admin-custom-theme.php:1044
+msgid "Pulse"
+msgstr "Pulsa"
+
+#: admin/admin-custom-theme.php:1049
+msgid "Animated Stripes"
+msgstr "Animasi Garis"
+
+#: admin/admin-custom-theme.php:1050
+msgid "(Stripes must be on)"
+msgstr "(Garis harus diaktifkan)"
+
+#: admin/admin-custom-theme.php:1054
+msgid "Percentage"
+msgstr "Persentase"
+
+#: admin/admin-custom-theme.php:1058
+msgid ""
+"This controls the progress bar's effects and styling. Settings are "
+"automatically saved."
+msgstr ""
+"Ini mengontrol efek dan gaya progress bar. Pengaturan disimpan secara "
+"otomatis."
+
+#: admin/admin-custom-theme.php:1065
+msgid "Preview:"
+msgstr "Preview:"
+
+#: admin/admin-custom-theme.php:1077
+msgid "save"
+msgstr "simpan"
+
+#: admin/admin-dashboard.php:56
+msgid "Total Donations Dashboard"
+msgstr "Dasbor Sumbangan Total"
+
+#: admin/admin-dashboard.php:118 admin/admin-dashboard.php:131
+msgid "Last 10 Online Donations"
+msgstr "10 Donasi Online Terakhir"
+
+#: admin/admin-dashboard.php:119 admin/admin-dashboard.php:129
+msgid " Online Donations Last 2 Weeks"
+msgstr " Sumbangan Online 2 Minggu Terakhir"
+
+#: admin/admin-dashboard.php:120 admin/admin-dashboard.php:127
+msgid "This Month Online Donations"
+msgstr "Sumbangan Online Bulan Ini"
+
+#: admin/admin-dashboard.php:137
+msgid "Timeline"
+msgstr "Linimasa"
+
+#: admin/admin-dashboard.php:142
+msgid "Time Period"
+msgstr "Jangka waktu"
+
+#: admin/admin-dashboard.php:143
+msgid "last 10 donations"
+msgstr "10 donasi terakhir"
+
+#: admin/admin-dashboard.php:144
+msgid "last 2 Weeks"
+msgstr "2 Minggu terakhir"
+
+#: admin/admin-dashboard.php:145 admin/admin-dashboard.php:157
+msgid "This Month"
+msgstr "Bulan ini"
+
+#: admin/admin-dashboard.php:148
+msgid "Time Period "
+msgstr "Period Ini "
+
+#: admin/admin-dashboard.php:151
+msgid "Last 10 Donations"
+msgstr "Donasi 10 terakhir"
+
+#: admin/admin-dashboard.php:154
+msgid "Last 2 Weeks"
+msgstr "2 Minggu terakhir"
+
+#: admin/admin-dashboard.php:212
+msgid "Anonymous:"
+msgstr "Anonim:"
+
+#: admin/admin-dashboard.php:218 admin/admin-dashboard.php:234
+msgid "no"
+msgstr "tidak"
+
+#: admin/admin-dashboard.php:220 admin/admin-dashboard.php:236
+msgid "yes"
+msgstr "ya"
+
+#: admin/admin-dashboard.php:224
+msgid "Repeating:"
+msgstr "Berulang:"
+
+#: admin/admin-dashboard.php:252
+msgid " See All"
+msgstr " Lihat Semua"
+
+#: admin/admin-dashboard.php:309
+msgid "Total Donations:"
+msgstr "Total Donasi:"
+
+#: admin/admin-dashboard.php:312 admin/admin-dashboard.php:361
+msgid "online"
+msgstr "online"
+
+#: admin/admin-dashboard.php:345 admin/admin-dashboard.php:350
+#: admin/admin-dashboard.php:367
+msgid "This Month:"
+msgstr "Bulan Ini:"
+
+#: admin/admin-dashboard.php:346 admin/admin-dashboard.php:368
+msgid "Past 7 Days:"
+msgstr "Tujuh hari terakhir:"
+
+#: admin/admin-dashboard.php:347 admin/admin-dashboard.php:369
+msgid "Today:"
+msgstr "Hari ini:"
+
+#: admin/admin-dashboard.php:393
+msgid "Campaign Progress"
+msgstr "Progress Kampanye"
+
+#: admin/admin-dashboard.php:401
+msgid "Project"
+msgstr "Proyek"
+
+#: admin/admin-dashboard.php:402
+msgid "Status"
+msgstr "Status"
+
+#: admin/admin-dashboard.php:403
+msgid "Progress"
+msgstr "Kemajuan"
+
+#: admin/admin-dashboard.php:519
+msgid "Donation Graph"
+msgstr "Grafik Donasi"
+
+#: admin/admin-dashboard.php:522
+msgid "Past 30 days"
+msgstr "30 hari terakhir"
+
+#: admin/admin-dashboard.php:523
+msgid "Past 6 Months"
+msgstr "6 bulan terakhir"
+
+#: admin/admin-dashboard.php:524
+msgid "Past 12 Months"
+msgstr "12 bulan terakhir"
+
+#: admin/admin-dashboard.php:532 admin/admin-reports.php:346
+#: admin/admin-reports.php:347 admin/admin-reports.php:399
+#: admin/admin-reports.php:643 admin/admin-reports.php:1657
+msgid "Online Donations"
+msgstr "Sumbangan Online"
+
+#: admin/admin-dashboard.php:532
+msgid "Offline Donations"
+msgstr "Sumbangan Offline"
+
+#: admin/admin-email.php:19 admin/admin-email.php:20 admin/admin-email.php:271
+msgid "Email Settings"
+msgstr "Pengaturan email"
+
+#: admin/admin-email.php:64
+msgid "Set Email & Receipts"
+msgstr "Setel Email & Tanda Terima"
+
+#: admin/admin-email.php:75
+msgid "Set Email & Receipts for these form"
+msgstr "Setel Email & Tanda Terima untuk formulir ini"
+
+#: admin/admin-email.php:82
+msgid "Thank You Email Template"
+msgstr "Templat Email Terima Kasih"
+
+#: admin/admin-email.php:83
+msgid "Action"
+msgstr "Aksi"
+
+#: admin/admin-email.php:84
+msgid "On/Off"
+msgstr "On/Off"
+
+#: admin/admin-email.php:89
+msgid "Multi Campaign Form"
+msgstr "Formulir Multi Kampanye"
+
+#: admin/admin-email.php:125
+msgid "SMTP Settings"
+msgstr "Pengaturan SMTP"
+
+#: admin/admin-email.php:135
+msgid "Use PHPMailer"
+msgstr "Gunakan PHPMailer"
+
+#: admin/admin-email.php:147
+msgid "Host"
+msgstr "Host"
+
+#: admin/admin-email.php:159
+msgid "User"
+msgstr "User"
+
+#: admin/admin-email.php:171
+msgid "Password"
+msgstr "Password"
+
+#: admin/admin-email.php:183
+msgid "Authenticated?"
+msgstr "Autentikasi?"
+
+#: admin/admin-email.php:194
+msgid "Security Protocol"
+msgstr "Protokol Keamanan"
+
+#: admin/admin-email.php:200
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/admin-email.php:201
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/admin-email.php:211
+msgid "Port"
+msgstr "Port"
+
+#: admin/admin-email.php:265
+msgid "Settings for "
+msgstr "Aturan untuk "
+
+#: admin/admin-email.php:265
+msgid "Multi Campaign Form "
+msgstr "Formulir Multi Kampanye "
+
+#: admin/admin-email.php:267
+msgid " Go back to Main Page"
+msgstr " Kembali ke Halaman Utama"
+
+#: admin/admin-email.php:273
+msgid "Redirect/Thank You Page"
+msgstr "Redirect / Halaman Terima Kasih"
+
+#: admin/admin-email.php:294
+msgid "Notifications and Email Settings"
+msgstr "Pemberitahuan dan Pengaturan Email"
+
+#: admin/admin-email.php:302
+msgid "Email(s) to Notify Upon New Donation"
+msgstr "Email Notifikasi"
+
+#: admin/admin-email.php:341
+msgid "Email Address: "
+msgstr "Email: "
+
+#: admin/admin-email.php:349
+msgid ""
+"The is the address all your emails will appear from when a donor receives an "
+"email"
+msgstr "Alamat semua email Anda akan muncul dari ketika donor menerima email"
+
+#: admin/admin-email.php:353
+msgid "Email Name : "
+msgstr "Nama Email: "
+
+#: admin/admin-email.php:362
+msgid "This is the name that all of your emails will appear from"
+msgstr "Ini adalah nama dari semua email Anda akan muncul"
+
+#: admin/admin-email.php:371
+msgid "Enable Thank You Emails:"
+msgstr "Aktifkan Email Terima Kasih:"
+
+#: admin/admin-email.php:376
+msgid ""
+" Switch this off you'd like no 'thank you email' to be sent to your donors "
+"after they donate"
+msgstr ""
+" Matikan ini Anda tidak ingin 'email terima kasih' untuk dikirim ke donor "
+"Anda setelah mereka menyumbang"
+
+#: admin/admin-email.php:403
+msgid "Thank you Email"
+msgstr "Email Terima Kasih"
+
+#: admin/admin-email.php:412
+msgid " Email Subject:"
+msgstr " Subjek Email:"
+
+#: admin/admin-email.php:417
+msgid " Thank you Email Text Body: "
+msgstr " Badan Teks Email terima kasih: "
+
+#: admin/admin-email.php:436
+msgid "Anonymous Donations:"
+msgstr "Sumbangan Anonim:"
+
+#: admin/admin-email.php:448
+msgid "Save in"
+msgstr "Simpan di"
+
+#: admin/admin-email.php:450
+msgid " Use the following shortcodes in the email body:"
+msgstr " Gunakan kode pendek berikut di badan email:"
+
+#: admin/admin-email.php:453
+msgid " Donor's First Name"
+msgstr " Nama Depan Donor"
+
+#: admin/admin-email.php:454
+msgid " Donor's Last Name"
+msgstr " Nama Belakang Donor"
+
+#: admin/admin-email.php:455
+msgid " Donation Amount"
+msgstr " Jumlah Donasi"
+
+#: admin/admin-email.php:456
+msgid " Donation date "
+msgstr " Tanggal donasi "
+
+#: admin/admin-email.php:457
+msgid " Donation campaign "
+msgstr " Kampanye donasi "
+
+#: admin/admin-email.php:458
+msgid " Anonymous Donations message will appear if this donation is anonymous "
+msgstr " Pesan Donasi Anonim akan muncul jika donasi ini anonim "
+
+#: admin/admin-email.php:471
+msgid "Email address for Test:"
+msgstr "Email untuk uji coba:"
+
+#: admin/admin-email.php:477
+msgid " Preview Email"
+msgstr " Pratinjau Email"
+
+#: admin/admin-email.php:479
+msgid " Use this to preivew what your donors will see when they donate."
+msgstr ""
+" Gunakan ini untuk memberi tahu sebelumnya apa yang akan dilihat donor Anda "
+"ketika mereka menyumbang."
+
+#: admin/admin-email.php:500
+msgid "Thank You Page"
+msgstr "Halaman Terima Kasih"
+
+#: admin/admin-email.php:501
+msgid "The page that appears after you donate"
+msgstr "Halaman yang muncul setelah Anda menyumbang"
+
+#: admin/admin-email.php:510
+msgid "Set The Thank You Page Here:"
+msgstr "Atur Halaman Terima Kasih Di Sini:"
+
+#: admin/admin-email.php:543 admin/admin-email.php:548
+msgid "Default (Go to Donation Form)"
+msgstr "Default (Pergi ke Formulir Donasi)"
+
+#: admin/admin-email.php:557
+msgid ""
+" If you set the thank you page to any page other than the default, you must "
+"add this shortcode to this page:"
+msgstr ""
+" Jika Anda mengatur halaman terima kasih ke halaman lain selain dari yang "
+"standar, Anda harus menambahkan kode pendek ini ke halaman ini:"
+
+#: admin/admin-email.php:557
+msgid "[totaldonations_thank_you_page]"
+msgstr "[totaldonations_thank_you_page]"
+
+#: admin/admin-email.php:594
+msgid " save in "
+msgstr " disimpan di "
+
+#: admin/admin-email.php:603
+msgid " Preview"
+msgstr " Pratinjau"
+
+#: admin/admin-email.php:607
+msgid "Shortcodes allowed:"
+msgstr "Shortcodes yang diperbolehkan:"
+
+#: admin/admin-form-options.php:94
+msgid "Country & Currency"
+msgstr "Negara & Mata Uang"
+
+#: admin/admin-form-options.php:129
+msgid "Default Currency Selection"
+msgstr "Pilihan Mata Uang Default"
+
+#: admin/admin-form-options.php:135
+msgid "Set currency"
+msgstr "Tetapkan mata uang"
+
+#: admin/admin-form-options.php:197
+msgid "Sign Location"
+msgstr "Lokasi Tanda"
+
+#: admin/admin-form-options.php:205 admin/admin-form-options.php:214
+msgid "Before"
+msgstr "Sebelum"
+
+#: admin/admin-form-options.php:208 admin/admin-form-options.php:216
+msgid "After"
+msgstr "Setelah"
+
+#: admin/admin-form-options.php:226
+msgid "Separators"
+msgstr "Pemisah"
+
+#: admin/admin-form-options.php:249
+msgid "Show Decimal Place"
+msgstr "Tampilkan Posisi Desimal"
+
+#: admin/admin-form-options.php:254
+msgid "check this if you want donors to be able to add decimal places"
+msgstr ""
+"periksa ini jika Anda ingin agar donor dapat menambahkan tempat desimal"
+
+#: admin/admin-form-options.php:280
+msgid "Minimum Amount"
+msgstr "Jumlah Minimum"
+
+#: admin/admin-form-options.php:287
+msgid "Minimum Amount to be accepted"
+msgstr "Jumlah minimum yang akan diterima"
+
+#: admin/admin-form-options.php:317
+msgid "Default Country Section"
+msgstr "Bagian Negara Default"
+
+#: admin/admin-form-options.php:324
+msgid "Set country"
+msgstr "Atur Negara"
+
+#: admin/admin-gateway-paypal.php:19 admin/admin-gateway-paypal.php:20
+#: admin/admin-gateway-paypal.php:63
+msgid "Paypal Settings"
+msgstr "Pengaturan PayPal"
+
+#: admin/admin-gateway-paypal.php:72
+msgid "Account Settings"
+msgstr "Pengaturan Akun"
+
+#: admin/admin-gateway-paypal.php:73
+msgid "Your PayPal Account Settings "
+msgstr "Pengaturan Akun PayPal "
+
+#: admin/admin-gateway-paypal.php:80
+msgid "Business Email"
+msgstr "Email PayPal"
+
+#: admin/admin-gateway-paypal.php:87
+msgid "The PayPal address you use for accepting donations. "
+msgstr "Akun email di PayPal yang digunakan untuk berdonasi"
+
+#: admin/admin-gateway-paypal.php:100
+msgid "IPN Listener:"
+msgstr "IPN Listener:"
+
+#: admin/admin-gateway-paypal.php:112
+msgid "IPN ChatBack:"
+msgstr "IPN ChatBack:"
+
+#: admin/admin-gateway-paypal.php:127
+msgid ""
+" Check this if you'd like to disable chatback with PayPal. See documentation "
+"for details"
+msgstr ""
+"Klik disini jika chatback ke PayPal mau dinonaktifkan. Lihat dokumentasi "
+"untuk lebih detail."
+
+#: admin/admin-gateway-paypal.php:132
+msgid "Warning: Could not resolved PayPal hostname. Chat Back has failed."
+msgstr ""
+"Peringatan: Tidak bisa menterjemahkan nama host PayPal. Proses chat back "
+"gagal."
+
+#: admin/admin-gateway-paypal.php:136
+msgid "Success:  Hostname was resolved successfully! "
+msgstr "Sukses: Nama host diterjemahkam dengan sukses! "
+
+#: admin/admin-gateway-paypal.php:157
+msgid "Type:"
+msgstr "Tipe"
+
+#: admin/admin-gateway-paypal.php:162
+msgid "Sandbox PayPal"
+msgstr "Sandbox PayPal"
+
+#: admin/admin-gateway-paypal.php:163
+msgid "PayPal"
+msgstr "PayPal"
+
+#: admin/admin-gateway-paypal.php:190
+msgid "Tab Text"
+msgstr "Teks Tab"
+
+#: admin/admin-gateway-paypal.php:191
+msgid "The tab label and notification text on the frontend form "
+msgstr ""
+
+#: admin/admin-gateway-paypal.php:198
+msgid "Tab Name"
+msgstr "Nama Tab"
+
+#: admin/admin-gateway-paypal.php:208
+msgid "Text displayed while redirecting/processing."
+msgstr "Teks ditampilkan saat mengarahkan / memproses."
+
+#: admin/admin-gateway-paypal.php:277
+msgid "PayPal Button"
+msgstr "Tombol PayPal"
+
+#: admin/admin-gateway-paypal.php:284 admin/admin-gateway-stripe.php:280
+msgid "Button"
+msgstr "Tombol"
+
+#: admin/admin-gateway-paypal.php:290 admin/admin-gateway-paypal.php:294
+#: admin/admin-gateway-stripe.php:285
+msgid "Your Default Form Button"
+msgstr "Tombol Formulir Default Anda"
+
+#: admin/admin-gateway-paypal.php:291 admin/admin-gateway-paypal.php:295
+#: admin/admin-gateway-stripe.php:287
+msgid "Grey Button"
+msgstr "Tombol abu-abu"
+
+#: admin/admin-gateway-paypal.php:305 admin/admin-gateway-stripe.php:295
+msgid "Button Text"
+msgstr "Teks di Tombol"
+
+#: admin/admin-gateway-paypal.php:315 admin/admin-gateway-stripe.php:305
+msgid "Add CSS class (theme button only)"
+msgstr "Tambahkan kelas CSS (hanya tombol tema)"
+
+#: admin/admin-gateway-stripe.php:19 admin/admin-gateway-stripe.php:20
+#: admin/admin-gateway-stripe.php:47
+msgid "Stripe Settings"
+msgstr "Pengaturan Stripe"
+
+#: admin/admin-gateway-stripe.php:67
+msgid "Stripe's Webhook"
+msgstr "Stripe's Webhook"
+
+#: admin/admin-gateway-stripe.php:70
+msgid "Webhook's URL: (Front End)"
+msgstr "Webhook's URL: (Front End)"
+
+#: admin/admin-gateway-stripe.php:76
+msgid " Go to Stripe"
+msgstr " Ke Stripe"
+
+#: admin/admin-gateway-stripe.php:81
+msgid ""
+"Copy one of the URLs above and add it into the webhook area inside the admin "
+"panel on Stripe's website. Please read Stripe's documentation for more "
+"detailed information."
+msgstr ""
+"Salin salah satu URL di atas dan tambahkan ke area webhook di dalam panel "
+"admin di situs web Stripe. Silakan baca dokumentasi Stripe untuk informasi "
+"lebih lanjut."
+
+#: admin/admin-gateway-stripe.php:100
+msgid "Stripe Info"
+msgstr "Info Stripe"
+
+#: admin/admin-gateway-stripe.php:106
+msgid "Test Publishable Key:"
+msgstr "Test Publishable Key:"
+
+#: admin/admin-gateway-stripe.php:109
+msgid "Test Secret Key:"
+msgstr "Test Secret Key:"
+
+#: admin/admin-gateway-stripe.php:114
+msgid "Live Publishable Key:"
+msgstr "Live Publishable Key:"
+
+#: admin/admin-gateway-stripe.php:117
+msgid "Live Secret Key:"
+msgstr "Live Secret Key:"
+
+#: admin/admin-gateway-stripe.php:121
+msgid "Webhook Key:"
+msgstr "Webhook Key:"
+
+#: admin/admin-gateway-stripe.php:136
+msgid "Test Stripe"
+msgstr "Uji Coba Stripe"
+
+#: admin/admin-gateway-stripe.php:142 admin/admin-gateway-stripe.php:159
+msgid "Live Stripe"
+msgstr "Live Stripe"
+
+#: admin/admin-gateway-stripe.php:153
+msgid "Testing Stripe"
+msgstr "Uji Coba Stripe"
+
+#: admin/admin-gateway-stripe.php:185
+msgid "Stripe Credit Card Tab"
+msgstr "Tab Credit Card Stripe"
+
+#: admin/admin-gateway-stripe.php:192
+msgid "Stripe Tab Label:"
+msgstr "Label Tab Stripe:"
+
+#: admin/admin-gateway-stripe.php:203
+msgid "Name on Card:"
+msgstr "Namdi kartu:"
+
+#: admin/admin-gateway-stripe.php:217
+msgid "Card Number/Placeholder:"
+msgstr "Nomor Kartu / Placeholder:"
+
+#: admin/admin-gateway-stripe.php:231
+msgid "Text displayed while redirecting/processing:"
+msgstr "Teks ditampilkan saat mengarahkan / memproses:"
+
+#: admin/admin-gateway-stripe.php:273
+msgid "Stripe Button"
+msgstr "Tombol Stripe"
+
+#: admin/admin-gateway-stripe.php:286
+msgid "Stripe Default Button"
+msgstr "Tombol Default Stripe"
+
+#: admin/admin-help.php:19 admin/admin-help.php:20
+msgid "Help"
+msgstr "Bantuan"
+
+#: admin/admin-help.php:39
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Anda tidak memiliki izin yang memadai untuk mengakses halaman ini."
+
+#: admin/admin-help.php:52
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: admin/admin-help.php:56 admin/admin-help.php:59
+msgid "Visit "
+msgstr "Kunjungi "
+
+#: admin/admin-help.php:56
+msgid "here for complete documentation "
+msgstr "di sini untuk dokumentasi lengkap "
+
+#: admin/admin-help.php:59
+msgid "here for shortcode examples and arguments"
+msgstr "di sini untuk contoh dan argumen shortcode"
+
+#: admin/admin-help.php:70
+msgid "ShortCode List"
+msgstr "Daftar Kode Pendek"
+
+#: admin/admin-help.php:71
+msgid ""
+"See all the attributes for these shortcodes by clicking on the shortcode "
+"example link above"
+msgstr ""
+"Lihat semua atribut untuk kode pendek ini dengan mengklik tautan contoh kode "
+"pendek di atas"
+
+#: admin/admin-reports.php:419
+msgid "Choose the Date Range to Load"
+msgstr "Pilih rentang tanggal untuk di tampilkan"
+
+#: admin/admin-reports.php:428
+msgid "Pick a date range for the reports:"
+msgstr "Pilih rentang tanggal untuk laporan:"
+
+#: admin/admin-reports.php:437
+msgid " Load This Date Range"
+msgstr " Muat Kisaran Tanggal Ini"
+
+#: admin/admin-reports.php:442
+msgid " Show pending payments?"
+msgstr " Tampilkan pembayaran tertunda?"
+
+#: admin/admin-reports.php:647
+msgid "Go back to Reports Filter"
+msgstr "Kembali ke Filter Laporan"
+
+#: admin/admin-reports.php:666
+msgid "Reports"
+msgstr "Laporan"
+
+#: admin/admin-reports.php:675
+msgid "Update"
+msgstr "Perbaharui"
+
+#: admin/admin-reports.php:676
+msgid "Detail"
+msgstr "Detail"
+
+#: admin/admin-reports.php:677
+msgid "Date"
+msgstr "Tanggal"
+
+#: admin/admin-reports.php:678 admin/admin-reports.php:706
+msgid "FirstName"
+msgstr "Nama Depan"
+
+#: admin/admin-reports.php:679 admin/admin-reports.php:709
+msgid "LastName"
+msgstr "Nama Belakang"
+
+#: admin/admin-reports.php:681 admin/admin-reports.php:715
+msgid "Amount"
+msgstr "Jumlah Donasi"
+
+#: admin/admin-reports.php:682 admin/admin-reports.php:718
+msgid "Country"
+msgstr "Negara"
+
+#: admin/admin-reports.php:683 admin/admin-reports.php:721
+msgid "Transaction"
+msgstr "Transaksi"
+
+#: admin/admin-reports.php:842
+msgid " (Repeating)"
+msgstr " (Berulang)"
+
+#: admin/admin-reports.php:914
+msgid "REMOVE "
+msgstr "Hapus "
+
+#: admin/admin-reports.php:915
+msgid " Unselect All "
+msgstr " Batalkan Semua Pilihan "
+
+#: admin/admin-reports.php:947
+msgid "This Report"
+msgstr "Laporan ini"
+
+#: admin/admin-reports.php:953
+msgid "TD Donations"
+msgstr "TD Donations"
+
+#: admin/admin-reports.php:967
+msgid " Grand Total"
+msgstr " Total"
+
+#: admin/admin-reports.php:993
+msgid " Online Donations"
+msgstr " Donasi Online"
+
+#: admin/admin-reports.php:1032
+msgid "Date Range Currently Displayed:"
+msgstr "Rentang Tanggal Saat Ini Ditampilkan:"
+
+#: admin/admin-reports.php:1041
+msgid " to "
+msgstr " ke "
+
+#: admin/admin-reports.php:1044
+msgid "Start from: "
+msgstr "Mulai dari: "
+
+#: admin/admin-reports.php:1047
+msgid "Below: "
+msgstr "Dibawah: "
+
+#: admin/admin-reports.php:1059
+msgid "CSV Export"
+msgstr "Ekspor ke CSV"
+
+#: admin/admin-reports.php:1109
+msgid "Are you sure you want to delete? This cannot be undone"
+msgstr "Anda yakin ingin menghapus? Ini tidak dapat dibatalkan"
+
+#: admin/admin-reports.php:1200 admin/admin-reports.php:1263
+msgid "Edit Online Donations"
+msgstr "Edit Donasi"
+
+#: admin/admin-reports.php:1205
+msgid "Go back to Online Donations"
+msgstr "Kembali ke Sumbangan Online"
+
+#: admin/admin-reports.php:1265
+msgid "Donation ID"
+msgstr "ID Donasi"
+
+#: admin/admin-reports.php:1271
+msgid "Donation Date"
+msgstr "Tanggal Donasi"
+
+#: admin/admin-reports.php:1284
+msgid "Transaction "
+msgstr "Transaksi "
+
+#: admin/admin-reports.php:1290
+msgid " Customer: "
+msgstr " Kustomer: "
+
+#: admin/admin-reports.php:1297
+msgid " Subscription: "
+msgstr " Berlangganan: "
+
+#: admin/admin-reports.php:1398 admin/admin-reports.php:1413
+#: admin/admin-reports.php:1427 admin/admin-reports.php:1457
+#: admin/admin-reports.php:1472 admin/admin-reports.php:1486
+#: admin/admin-reports.php:1552 admin/admin-reports.php:1571
+msgid "Please Choose"
+msgstr "Pilih"
+
+#: admin/admin-security-frontend.php:19 admin/admin-security-frontend.php:20
+msgid "Front End and Securities"
+msgstr "Front End dan Sekuritas"
+
+#: admin/admin-security-frontend.php:62
+msgid "Front End Settings"
+msgstr "Pengaturan Front End"
+
+#: admin/admin-security-frontend.php:70
+msgid "Gateway Order"
+msgstr "Urutan Pembayaran"
+
+#: admin/admin-security-frontend.php:77
+msgid "Choose the gateway(s) you'd like to use and their order:"
+msgstr "Pilih pembayaran yang ingin Anda gunakan dan pesanannya:"
+
+#: admin/admin-security-frontend.php:188
+msgid "Security Options"
+msgstr "Opsi Keamanan"
+
+#: admin/admin-security-frontend.php:195
+msgid "Force Total Donations to use Address Verification Service:"
+msgstr "Paksakan Total Donasi untuk menggunakan Address Verification Service:"
+
+#: admin/admin-security-frontend.php:200
+msgid ""
+"Address Verification System (AVS) provides additional levels of confirmation "
+"that the person using the card is the legitimate owner of the card. This is "
+"useful to identify and avoid fraud."
+msgstr ""
+"Address Verification System (AVS) memberikan tingkat konfirmasi tambahan "
+"bahwa orang yang menggunakan kartu adalah pemilik kartu yang sah. Ini "
+"berguna untuk mengidentifikasi dan menghindari penipuan."
+
+#: admin/admin-security-frontend.php:204
+msgid ""
+" For this to work you have to make the address and postal code fields "
+"mandatory on the form."
+msgstr ""
+" Agar ini berfungsi, Anda harus membuat kolom alamat dan kode pos wajib pada "
+"formulir."
+
+#: admin/admin-security-frontend.php:212
+msgid "No check at all"
+msgstr "Tidak ada cek sama sekali"
+
+#: admin/admin-security-frontend.php:217
+msgid "Low: Check the card CVC only"
+msgstr "Rendah: Periksa kartu CVC saja"
+
+#: admin/admin-security-frontend.php:222
+msgid "Medium: Allow partial match of Postal Code and Address Fields"
+msgstr "Medium: Izinkan kecocokan sebagian Kode Pos dan Bidang Alamat"
+
+#: admin/admin-security-frontend.php:227
+msgid "High: Only allow exact match of both Address and Postal Code Fields"
+msgstr ""
+"Tinggi: Hanya bolehkan pencocokan tepat untuk Bidang Alamat dan Kode Pos"
+
+#: admin/admin-security-frontend.php:242
+msgid " Save"
+msgstr " Simpan"
+
+#: admin/admin-security-frontend.php:258
+msgid "Grant User Access:"
+msgstr "Berikan Akses Pengguna:"
+
+#: admin/admin-security-frontend.php:259
+msgid ""
+"All Users other than administers will not be able to change user access."
+msgstr ""
+"Semua Pengguna selain dari administrator tidak akan dapat mengubah akses "
+"pengguna."
+
+#: admin/admin-security-frontend.php:308
+msgid "Administrator"
+msgstr "Administrator"
+
+#: admin/admin-security-frontend.php:316 admin/admin-security-frontend.php:327
+msgid "No Role"
+msgstr "Tanpa Peran"
+
+#: admin/admin-security-frontend.php:320 admin/admin-security-frontend.php:331
+msgid "TotalDonations Accountant"
+msgstr "TotalDonations Accountant"
+
+#: admin/admin-system-status.php:15 admin/admin-system-status.php:16
+msgid "System Status & Logs"
+msgstr "Status Sistem dan Log"
+
+#: admin/admin-system-status.php:43
+msgid " System Status"
+msgstr " Status Sistem"
+
+#: admin/admin-system-status.php:50
+msgid "System Information"
+msgstr "Informasi Sistem"
+
+#: admin/admin-system-status.php:52
+msgid "Logs"
+msgstr "Logs"
+
+#: admin/admin-system-status.php:65
+msgid "System Info"
+msgstr "Info Sistem"
+
+#: admin/admin-system-status.php:72
+msgid "Plugin Version:"
+msgstr "Versi Plugin:"
+
+#: admin/admin-system-status.php:79
+msgid "Server Name:"
+msgstr "Nama Server:"
+
+#: admin/admin-system-status.php:86
+msgid "Server Software:"
+msgstr "Perangkat Lunak Serve:"
+
+#: admin/admin-system-status.php:93
+msgid "PHP Version:"
+msgstr "Versi PHP:"
+
+#: admin/admin-system-status.php:100
+msgid "Curl SSL:"
+msgstr "Curl SSL:"
+
+#: admin/admin-system-status.php:108
+msgid "Database:"
+msgstr "Database:"
+
+#: admin/admin-system-status.php:115
+msgid "Database Prefix:"
+msgstr "Awalan Database:"
+
+#: admin/admin-system-status.php:126
+msgid "URL used by Stripe Webhooks"
+msgstr "URL yang digunakan Stripe Webhooks"
+
+#: admin/admin-system-status.php:137
+msgid "URL used by PayPal IPN Listener"
+msgstr "url yang digunakan PayPal untuk komunikasi"
+
+#: admin/admin-system-status.php:143
+msgid "Is child theme used:"
+msgstr "Apakah tema anak digunakan:"
+
+#: admin/admin-system-status.php:147
+#: frontend/widgets/migla-circle-widget.php:325
+#: frontend/widgets/migla-circle-widget.php:327
+msgid "Yes"
+msgstr "Ya"
+
+#: admin/admin-system-status.php:149
+#: frontend/widgets/migla-circle-widget.php:325
+#: frontend/widgets/migla-circle-widget.php:327
+msgid "No"
+msgstr "Tidak"
+
+#: admin/admin-system-status.php:157
+msgid "Basename"
+msgstr "Nama dasar"
+
+#: admin/admin-system-status.php:164
+msgid "Plugin Directory"
+msgstr "Direktori Plugin"
+
+#: admin/admin-system-status.php:175
+msgid "Path directory"
+msgstr "Direktori jalur"
+
+#: admin/admin-system-status.php:280 admin/admin-system-status.php:336
+msgid "Open log"
+msgstr "Buka Log"
+
+#: admin/admin-system-status.php:283 admin/admin-system-status.php:339
+msgid "Empty this log"
+msgstr "Kosongkan log ini"
+
+#: frontend/shortcodes/migla_sc_progress_bar.php:32
+msgid "Add attribute ID or the campaign ID so the progress bar can be shown"
+msgstr ""
+"Tambahkan ID atribut atau ID kampanye sehingga progress bar dapat ditampilkan"
+
+#: frontend/widgets/migla-bar-widget.php:11
+msgid "A widget that displays progress bar for total donation"
+msgstr "Widget yang menampilkan progress bar untuk donasi total"
+
+#: frontend/widgets/migla-bar-widget.php:17
+msgid "Total Donations Bar Widget"
+msgstr "Total Widget Donasi Bar"
+
+#: frontend/widgets/migla-bar-widget.php:418
+msgid "Title of the progress bar:"
+msgstr "Judul:"
+
+#: frontend/widgets/migla-bar-widget.php:427
+msgid "Current Campaign : "
+msgstr "Kampanye saat ini : "
+
+#: frontend/widgets/migla-bar-widget.php:431
+#: frontend/widgets/migla-circle-widget.php:260
+msgid "Choose a campaign to show :"
+msgstr "Pilih Kampanye yang ditampilkan :"
+
+#: frontend/widgets/migla-bar-widget.php:464
+msgid "Form ID : "
+msgstr "Form ID : "
+
+#: frontend/widgets/migla-bar-widget.php:468
+msgid "URL : "
+msgstr "URL : "
+
+#: frontend/widgets/migla-bar-widget.php:473
+msgid "Border:"
+msgstr "Batas Panel:"
+
+#: frontend/widgets/migla-bar-widget.php:476
+msgid "Top Left:"
+msgstr "Atas Kanan:"
+
+#: frontend/widgets/migla-bar-widget.php:479
+msgid "Top Right:"
+msgstr "atas kanan:"
+
+#: frontend/widgets/migla-bar-widget.php:482
+msgid "Bottom Left:"
+msgstr "bawah kiri:"
+
+#: frontend/widgets/migla-bar-widget.php:486
+msgid "Bottom Right:"
+msgstr "bawah kanan:"
+
+#: frontend/widgets/migla-bar-widget.php:494
+msgid "H-Shadow:"
+msgstr "H-shadow:"
+
+#: frontend/widgets/migla-bar-widget.php:497
+msgid "V-Shadow:"
+msgstr "V-shadow:"
+
+#: frontend/widgets/migla-bar-widget.php:500
+msgid "Blur:"
+msgstr "Pengaburan:"
+
+#: frontend/widgets/migla-bar-widget.php:503
+msgid "Spread:"
+msgstr "Penyebaran:"
+
+#: frontend/widgets/migla-bar-widget.php:506
+msgid "Well Box Shadow Color:"
+msgstr "Well Box Shadow Color:"
+
+#: frontend/widgets/migla-bar-widget.php:521
+msgid "Well Shadows:"
+msgstr "Bayangan Well :"
+
+#: frontend/widgets/migla-bar-widget.php:526
+msgid "Stripes Effect:"
+msgstr "Efek Garis:"
+
+#: frontend/widgets/migla-bar-widget.php:536
+msgid "Animated Stripes Effect (stripes must be on):"
+msgstr "Efek animasi garis (grais harus aktif):"
+
+#: frontend/widgets/migla-bar-widget.php:546
+msgid "Pulse Effect:"
+msgstr "Efek Pulsa:"
+
+#: frontend/widgets/migla-bar-widget.php:556
+msgid "Percentage:"
+msgstr "Persentase:"
+
+#: frontend/widgets/migla-bar-widget.php:591
+#: frontend/widgets/migla-circle-widget.php:407
+msgid "Text on button:"
+msgstr "Info Text di tombol:"
+
+#: frontend/widgets/migla-bar-widget.php:595
+msgid "Add HTML or Plain Text above:"
+msgstr "Tambahkan HTML atau Teks Biasa di atas:"
+
+#: frontend/widgets/migla-bar-widget.php:596
+#: frontend/widgets/migla-bar-widget.php:599
+msgid "shortcodes allowed: [campaign] [percentage] [backers] [amount]"
+msgstr "kode pendek diizinkan: [campaign] [percentage] [backers] [amount]"
+
+#: frontend/widgets/migla-bar-widget.php:598
+msgid "Add HTML or Plain Text below:"
+msgstr "Tambahkan HTML atau Teks Biasa di bawah:"
+
+#: frontend/widgets/migla-circle-widget.php:14
+msgid "A widget that displays a circle progress bar for Total Donations"
+msgstr "Widget yang menampilkan progress bar untuk TotalDonations"
+
+#: frontend/widgets/migla-circle-widget.php:20
+msgid "Total Donations Circle Widget"
+msgstr "Total Donations Circle Widget"
+
+#: frontend/widgets/migla-circle-widget.php:255
+msgid "Title of the circle progress bar:"
+msgstr "Judul:"
+
+#: frontend/widgets/migla-circle-widget.php:308
+msgid "Circle Size in Pixels :"
+msgstr "Ukuran Lingkaran dalam Piksel:"
+
+#: frontend/widgets/migla-circle-widget.php:313
+msgid "Circle Thickness :"
+msgstr "Ketebalan :"
+
+#: frontend/widgets/migla-circle-widget.php:318
+msgid "Circle Start Angle :"
+msgstr "Sudut mulai :"
+
+#: frontend/widgets/migla-circle-widget.php:323
+msgid "reverse:"
+msgstr "dibalik arah:"
+
+#: frontend/widgets/migla-circle-widget.php:367
+msgid "Inside Text:"
+msgstr "Teks di dalam:"
+
+#: frontend/widgets/migla-circle-widget.php:412
+msgid "Text Alignment and Orientation:"
+msgstr "Penyelarasan dan Orientasi Teks:"
+
+#: frontend/widgets/migla-circle-widget.php:469
+msgid "Current Amount Label:"
+msgstr "Label Jumlah Saat Ini:"
+
+#: frontend/widgets/migla-circle-widget.php:474
+msgid "Target Amount Label:"
+msgstr "Label Jumlah Target:"
+
+#: frontend/widgets/migla-circle-widget.php:479
+msgid "Total Supporters Label:"
+msgstr "Label Pendukung Total:"
+
+#: frontend/widgets/migla-circle-widget.php:484
+#: frontend/widgets/migla-circle-widget.php:487
+msgid ""
+"shortcodes allowed: [amount]\t[target] [campaign] [backers] [percentage]"
+msgstr ""
+"kode pendek yang diizinkan: [amount]\t[target] [campaign] [backers] "
+"[percentage]"
+
+#~ msgid "Using this your donor can switch Campaigns on a single Form:  "
+#~ msgstr ""
+#~ "Dengan menggunakan ini, donor Anda dapat mengalihkan Kampanye dalam satu "
+#~ "Formulir: "
+
+#~ msgid ""
+#~ "Multi Campaign Form (Use only this if you don't want to customize the "
+#~ "thank you letter for each form.)"
+#~ msgstr ""
+#~ "Formulir Multi Kampanye (Gunakan hanya ini jika Anda tidak ingin "
+#~ "menyesuaikan surat terima kasih untuk setiap formulir.)"
+
+#~ msgid "Add A New Recurring Donation Plan"
+#~ msgstr "Tambahkan Rencana Donasi Berulang Baru"
+
+#~ msgid "Interval Count"
+#~ msgstr "Hitungan Interval"
+
+#~ msgid "Day(s)"
+#~ msgstr "Hari"
+
+#~ msgid "Week(s)"
+#~ msgstr "Minggu"
+
+#~ msgid "Month(s)"
+#~ msgstr "Bulan"
+
+#~ msgid "Year(s)"
+#~ msgstr "Tahun"
+
+#~ msgid "Payment Gateway"
+#~ msgstr "Gerbang pembayaran"
+
+#~ msgid "Stripe Only"
+#~ msgstr "Hanya Stripe"
+
+#~ msgid "Authorize Only"
+#~ msgstr "Hanya Authorize"
+
+#~ msgid "PayPal or Stripe"
+#~ msgstr "PayPal atau Stripe"
+
+#~ msgid "PayPal or Authorize"
+#~ msgstr "PayPal atau Authorize"
+
+#~ msgid "Stripe or Authorize"
+#~ msgstr "Stripe atau Authorize"
+
+#~ msgid "PayPal/Stripe/Authorize"
+#~ msgstr "PayPal/Stripe/Authorize"
+
+#~ msgid " Warning: "
+#~ msgstr " Peringatan: "
+
+#~ msgid ""
+#~ " Gateways must match your form's gateway(s) in order to be displayed on "
+#~ "the form"
+#~ msgstr ""
+#~ " Gateway harus cocok dengan gateway formulir Anda agar dapat ditampilkan "
+#~ "pada formulir"
+
+#~ msgid "Warning"
+#~ msgstr "Peringatan"
+
+#~ msgid "Confirmation!"
+#~ msgstr "Konfirmasi!"
+
+#~ msgid "Yes, Confirmed"
+#~ msgstr "Ya, Sudah Konfirmasi"
+
+#~ msgid "you cannot make authorize's period under 7 days"
+#~ msgstr "anda tidak dapat membuat periode otorisasi di bawah 7 hari"
+
+#~ msgid "Authorize only accept daily and monthly period"
+#~ msgstr "Authorize hanya menerima periode harian dan bulanan"
+
+#~ msgid "This will add a new plan on stripe"
+#~ msgstr "Ini akan menambahkan plan baru pada garis"
+
+#~ msgid ""
+#~ "This will remove the old plan on stripe. Removing a plan will not cancel "
+#~ "your existing donor's recurring donations"
+#~ msgstr ""
+#~ "Ini akan menghapus plan lama pada Stripe. Menghapus plan tidak akan "
+#~ "membatalkan donasi berulang donor Anda yang sudah ada"
+
+#~ msgid ""
+#~ "This will delete the old plan and recreate a new one with new info again. "
+#~ "This process will not stop current donor's recurring donations"
+#~ msgstr ""
+#~ "Ini akan menghapus plan lama dan membuat ulang yang baru dengan info "
+#~ "terbaru. Proses ini tidak akan menghentikan donasi berulang donor saat ini"
+
+#~ msgid "You are updating a plan on stripe"
+#~ msgstr "Anda memperbarui plan di Stripe"
+
+#~ msgid "Current Recurring Donation Plans"
+#~ msgstr "Plan Donasi Berulang Saat Ini"
+
+#~ msgid "Interval"
+#~ msgstr "Rentang"
+
+#~ msgid " Deactivate"
+#~ msgstr " Menonaktifkan"
+
+#~ msgid "Gateways"
+#~ msgstr "Gerbang Pembayaran"
+
+#~ msgid ""
+#~ "You don't have any recurring plans. Recurring donations won't be "
+#~ "displayed until you add some above."
+#~ msgstr ""
+#~ "Anda tidak memiliki plan berulang. Sumbangan berulang tidak akan "
+#~ "ditampilkan hingga Anda menambahkan beberapa di atas."
+
+#~ msgid "Localization Option"
+#~ msgstr "Opsi Pelokalan"
+
+#~ msgid "The None Option label:"
+#~ msgstr "Label Opsi Tidak Ada:"
+
+#~ msgid ""
+#~ "When using radio buttons, an option for none will appear. Change the "
+#~ "language here"
+#~ msgstr ""
+#~ "Saat menggunakan tombol radio, opsi untuk tidak ada akan muncul. Ubah "
+#~ "bahasa di sini"
+
+#~ msgid "Mailing List Chooser"
+#~ msgstr "Pemilih Milis"
+
+#~ msgid "Choice Mailing List Vendor:"
+#~ msgstr "Piliha daftar Vendor Mailing:"
+
+#~ msgid "Constant Contact"
+#~ msgstr "Constant Contact"
+
+#~ msgid "Mail Chimp"
+#~ msgstr "Mail Chimp"
+
+#~ msgid "Constant Contact Integration"
+#~ msgstr "Integrasi Constant Contact"
+
+#~ msgid ""
+#~ "Constant Contact Classes implements the technical interoperability "
+#~ "standards for PHP 5.3 namespaces and class names."
+#~ msgstr ""
+#~ "Constant Contact Classes mengimplementasikan standar interoperabilitas "
+#~ "teknis untuk ruang nama dan nama kelas PHP 5.3."
+
+#~ msgid "API Key:"
+#~ msgstr "API Key:"
+
+#~ msgid "Token:"
+#~ msgstr "Token:"
+
+#~ msgid "Constant Contact Lists:"
+#~ msgstr "Daftar di Constant Contact:"
+
+#~ msgid " Retrieve available lists"
+#~ msgstr " Ambil daftar yang tersedia"
+
+#~ msgid "  Update the lists"
+#~ msgstr " Perbarui daftar"
+
+#~ msgid "Mailchimp Settings"
+#~ msgstr "Pengaturan MailChimp"
+
+#~ msgid "Mail Chimp Lists:"
+#~ msgstr "Daftar MailChimp:"
+
+#~ msgid ""
+#~ "You don't have any automatic sign ups set up yet. Add some by clicking "
+#~ "the button below"
+#~ msgstr ""
+#~ "Anda belum mengatur pendaftaran otomatis. Tambahkan beberapa dengan "
+#~ "mengklik tombol di bawah ini"
+
+#~ msgid " Update the lists"
+#~ msgstr " Perbarui daftar"
+
+#~ msgid "Are you sure you want to delete this Plan? This cannot be undone"
+#~ msgstr "Anda yakin ingin menghapus Plan ini? Hal ini tidak dapat dibatalkan"
+
+#~ msgid "Upload Your Own Button"
+#~ msgstr "Unggah Tombol Anda Sendiri"
+
+#~ msgid "Upload:"
+#~ msgstr "Unggah:"
+
+#~ msgid "Browse…"
+#~ msgstr "Cari..."
+
+#~ msgid "Choose a CSS Button"
+#~ msgstr "Pilih Tombol CSS"
+
+#~ msgid "Get started by going "
+#~ msgstr "Mulailah dengan pergi "
+
+#~ msgid " here "
+#~ msgstr " disini "
+
+#~ msgid "Store Purchase"
+#~ msgstr "Pembelian Toko"
+
+#~ msgid "Font Size "
+#~ msgstr "Ukuran Teks di dalam lingakaran "
+
+#~ msgid "(The Percentage inside the circle)"
+#~ msgstr "(Persentase di dalam lingkaran)"
+
+#~ msgid "align left with right text"
+#~ msgstr "sejajarkan ke kiri dengan teks kanan"
+
+#~ msgid "align left with left text"
+#~ msgstr "sejajarkan kiri dengan teks kiri"
+
+#~ msgid "align right with left text"
+#~ msgstr "sejajarkan ke kanan dengan teks kiri"
+
+#~ msgid "align right with right text"
+#~ msgstr "sejajarkan kanan dengan teks kanan"

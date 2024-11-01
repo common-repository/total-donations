@@ -1,0 +1,32 @@
+div.details-control {
+    background: url('../images/details_open.png') no-repeat center center;
+    cursor: pointer;
+    height:20px;
+}
+div.close-details-control {
+    background: url('../images/details_close.png') no-repeat center center;
+    cursor: pointer;
+    height:20px;
+}
+
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+
+table.dataTable thead .sorting_desc {
+    background-image: url("../images/sort_desc.png");
+}
+
+table.dataTable thead .sorting_asc {
+    background-image: url("../images/sort_asc.png");
+}
+
+table.dataTable thead .sorting, table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc, table.dataTable thead .sorting_asc_disabled, table.dataTable thead .sorting_desc_disabled 
+{
+    cursor: pointer;
+    *cursor: hand;
+    background-repeat: no-repeat;
+    background-position: center right;
+}

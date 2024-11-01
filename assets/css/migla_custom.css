@@ -1,0 +1,32 @@
+/*Add this custom script for any TD DOM that insertd on website beside hooked page*/
+
+.migla_notice-dismiss{
+    position: absolute;
+    top: 0;
+    right: 1px;
+    border: none;
+    margin: 0;
+    padding: 9px;
+    background: none;
+    color: #72777c;
+    cursor: pointer;
+}
+
+.migla_notice-dismiss::before{
+    background: none;
+    color: #72777c;
+    content: "\f153";
+    display: block;
+    font: normal 16px/20px dashicons;
+    speak: none;
+    height: 20px;
+    text-align: center;
+    width: 20px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;    
+}
+
+.migla_dismiss{
+    padding-right: 38px;
+    position: relative;    
+}
